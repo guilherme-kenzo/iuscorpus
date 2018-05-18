@@ -1,0 +1,114 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DE INSTRUMENTO Nº 377273 - RS (2001⁄0036519-1)
+        RELATORA  : MINISTRA NANCY ANDRIGHI
+        AGRAVANTE : UNIBANCO UNIAO DE BANCOS BRASILEIROS S⁄A
+        ADVOGADO  : JOAO ARTHUR BONORINO FILHO E OUTROS
+        AGRAVADO  : FRANCISCO NORIVAL FRAGA DO COUTO
+        ADVOGADO  : FRANCISCO NORIVAL FRAGA DO COUTO (EM CAUSAPROPRIA)
+        AGRAVADO  : ELY FAGUNDES STANDT
+        ADVOGADO  : ELY FAGUNDES STANDT (EM CAUSA PROPRIA)
+ 
+ 
+Processual Civil. Agravo de instrumento. Contrato de depósitoequiparado ao
+mútuo. Penhora de dinheiro depositado em Banco.Orientação Jurisprudencial.
+– Ao contrato de depósito bancário podem ser aplicadas regrascompatíveis sobre
+o mútuo.
+- É inadmissível recurso especial quando o acórdão recorrido estáem consonância
+com a orientação jurisprudencial do STJ.
+                                    DECISÃO
+Cuida-se de Agravo de Instrumento interposto pelo Unibanco S⁄A,contra decisão
+que negou seguimento a recurso especial arrimado no art. 105,inciso III,
+alíneas "a", da Constituição Federal, contra acórdão do e. Tribunal deJustiça
+do Estado do Rio Grande do Sul, que negou provimento a agravo deinstrumento
+interposto pelo ora agravante, assim ementado:
+ 
+" AGRAVO DE INSTRUMENTO. EXECUÇÃO DESENTENÇA. BANCO. PENHORA DE DINHEIRO.
+POSSIBILIDADE.
+Penhora de dinheiro. O dinheiro depositado nascontas-caixas dos bancos, por ser
+bem fungível, pertence-lhes,ficando à sua livre disposição. Assim, é possível a
+penhora dedinheiro de entidades bancárias, excetuando o montante relativo
+àsreservas bancárias mantidas junto ao Banco Central.
+Agravo provido."(fl. 11)
+Irresignado, o ora agravante, interpôs recurso especial, alegandoviolação ao
+seguinte dispositivo legal:
+- Art. 1.257, do Código Civil, uma vez que aplicou tal regra à contratobancário
+que não é de mútuo, mas sim de depósito, e permitiu fosse realizadapenhora de
+dinheiro que não pertence ao Banco.
+Negou-se seguimento ao recurso, alegando-se que não houvequalquer ofensa ao
+mencionado dispositivo legal.
+Daí o presente agravo em que se sustenta que ficou comprovada acontrariedade ao
+artigo 1.257, do Código Civil.
+Relatado o processo, decide-se.
+ 
+              - Da alegada ofensa ao art. 1.257, do Código Civil
+A questão da afronta ao art. 1.257, do Código Civil, resume-se a doisaspectos.
+O primeiro é de se determinar se houve aquela ofensa porque aplicadodispositivo
+relativo à contrato de mútuo à relação de depósito, de que tratam osautos. O
+segundo diz respeito a se foi penhorado bem que não o era, por não serde
+propriedade do Banco o dinheiro aí depositado.
+Em relação ao primeiro aspecto, afirmou o e. Tribunala quo:
+" O dinheiro é bem fungível e depositado em suaconta-caixa passa para sua
+propriedade (art. 1257 do CC), pois delepode dispor, e efetivamente dispõe,
+livremente."(fl. 13)
+ 
+Considerou-se, portanto, que, tratando-se de bem fungível o dinheirodepositado
+no Banco, a este deveria se aplicar a regra prevista para o mútuo,segundo a
+qual adquire-se a propriedade da quantia depositada. Aliás, talentendimento
+está no mesmo sentido da orientação desta Corte, senão veja-se:
+"Execução. Banco. Penhora de dinheiro.
+O depósito bancário é depósito irregular, a ele seaplicando as regras do mútuo.
+Passa o dinheiro à propriedade dodepositário, contra quem o depositante terá um
+crédito.
+Possibilidade de ser o dinheiro penhorado, já que nãoconstitui reserva
+bancária, nem pertence a terceiro.
+Litigância de má-fé.
+Não a configura o uso normal dos recursos previstosem lei.
+Igualmente não resulta do fato de a parte pretender queincide norma que a corte
+considerou inaplicável."
+(RESP 212.886⁄MA; DJ:28⁄08⁄2000; Rel. Min. EduardoRibeiro)
+ 
+"DIREITOS PROCESSUAL CIVIL E COMERCIAL.EXECUÇÃO. PENHORA.BANCOCOMO DEVEDOR.
+DINHEIROEM CAIXA. POSSIBILIDADE. INOCORRENCIA DE OFENSA AOART. 620, CPC.
+PRECEDENTE. RECURSO DESACOLHIDO.
+- CLASSIFICANDO-SE ODEPOSITODE DINHEIROEMBANCOCOMO CONTRATO
+DEDEPOSITOIRREGULAR, QUEAOMUTUOSE EQUIPARA, POR ELE OBANCORECEBENDO
+APROPRIEDADE DO BEM, NÃO HA ILEGALIDADE NA PENHORADE DINHEIRO EM CAIXA, DESDE
+QUE NÃO RECAIA SOBRE ASRESERVAS TECNICAS EXISTENTES JUNTO AOBANCOCENTRAL."
+(RESP 98.623⁄MG; DJ:06⁄10⁄1997; Rel. Min. Sálvio deFigueiredo Teixeira)
+ 
+Por esse motivo, não houve afronta ao mencionado dispositivo legal,mas apenas
+foi este aplicado ao caso, no que cabia, no que era compatível com ocontrato de
+depósito bancário.
+Por sua vez, com relação ao aspecto da impossibilidade de sepenhorar dinheiro
+que não pertencia ao Banco, vê-se que tal alegação não revelaqualquer ofensa ao
+mencionado dispositivo legal.
+De qualquer modo, ao determinar a penhorabilidade de tal bem,decidiu-se em
+consonância com a orientação jurisprudencial desta Corte,consoante demonstram o
+seguintes precedentes:
+"PROCESSO CIVIL. PENHORA. A penhora poderecair sobre dinheiro depositado em
+banco, desde que não atinja onumerário destinado à conta de 'Reservas
+Bancárias'(Lei nº9.069⁄95, art. 68). Recurso especial não conhecido."
+(Recurso Especial 202.354, Rel. Min. Ari Pargendler,DJ de 20.03.2000)
+ 
+"EXECUÇÃO.PENHORADEDINHEIRODISPONÍVELEM CAIXA DE INSTITUIÇÃO FINANCEIRA.
+POSSIBILIDADE.RESSALVA QUANTO ÀS RESERVAS TÉCNICAS MANTIDASJUNTO AO
+"BANCOCENTRAL DO BRASIL".
+- Segundo a jurisprudência traçada pelo STJ, é possívelrecaia apenhorasobre o
+numerário disponível no caixa dainstituição financeira, excluídas apenas as
+reservas técnicasmantidas junto ao "BancoCentral do Brasil".
+Recurso especial conhecido e provido parcialmente."
+(RESP 234.239⁄SP; DJ:02⁄05⁄2000; Rel.Min. BarrosMonteiro)
+Portanto, também impede a pretensão, o disposto na Súmula83⁄STJ.
+Forte em tais razões, nego provimento ao agravo de instrumento, porser o
+recurso especial manifestamente inadmissível.
+Publique-se. Intimem-se.
+Brasília-DF, 27 de abril de 2001.
+ 
+ 
+                            MINISTRA Nancy Andrighi
+                                   Relatora
+
+Documento: 19409 Despacho / DecisÃ£- DJ: 08/05/2001

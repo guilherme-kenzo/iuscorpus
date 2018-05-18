@@ -1,0 +1,176 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DE INSTRUMENTO Nº 394.316 - PR (2001⁄0070033-9)
+     RELATORA  : MINISTRA NANCY ANDRIGHI
+     AGRAVANTE : CREDIVAL COOPERATIVA DE CRÉDITO RURAL VALE DOTIBAGI LTDA
+     ADVOGADO  : SEBASTIÃO DA SILVA FERREIRA E OUTROS
+     AGRAVADO  : MANOEL AFONSO DA MOTA E OUTROS
+     ADVOGADO  : SANTINO RUCHINSKI E OUTROS
+ 
+ 
+Processo Civil. Agravo de Instrumento. Execução por quantia certa.Demonstrativo
+do débito. Reexame fático-probatório.
+- O demonstrativo de cálculo que acompanha a petição inicial emprocesso de
+execução deve ser apto a esclarecer a evolução dodébito, discriminando os
+valores e as operações aritméticas utilizadaspelo exeqüente.
+- É inviável o reexame fático-probatório em sede de Recurso Especial.
+ 
+                                    DECISÃO
+ 
+Cuida-se de agravo de instrumento contra decisão que negouseguimento a Recurso
+Especial arrimado na alínea "a", do permissivo constitucional,interposto pela
+Cooperativa de Crédito Rural Vale do Tibagi Ltda. contra acórdão doe. Tribunal
+de Alçada do Estado do Paraná, proferido em embargos do devedor,determinando a
+nulidade do processo de execução.
+Narram os autos que Manoel Afonso da Mota e outros opuseramembargos do devedor
+em processo de execução promovido pela ora agravante,com base em título
+executivo extrajudicial (contrato de confissão de dívida),alegando nulidade da
+execução.
+Rejeitados os embargos, apelaram os embargantes, tendo sido providoo apelo em
+acórdão assim ementado:    
+" EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DODEVEDOR. MEMÓRIA DE CÁLCULO
+DEFICIENTE. EXTINÇÃO DA EXECUÇÃO.
+Para que o devedor possa controlar a exatidão da quantia executada,fundando-se
+a execução em título executivo extrajudicial que dependa apenas decálculo
+aritmético, deve o credor instruir a petição inicial com a memóriadiscriminada
+do débito até a data da propositura da ação, explicitando os elementose
+critérios empregados para atingir tal montante mês a mês (ex: taxa de juros;
+formade capitalização; índice utilizado para correção monetária, etc.), sob
+pena deiliquidez e carência de ação (arts. 604, 614, II e 618, I do CPC)."(fl.
+33)
+A ora agravante opôs, então, embargos de declaração, que foramrejeitados pelo
+Tribunala quo.
+Irresignada, interpôs Recurso Especial alegando ofensa aos
+seguintesdispositivos legais:
+I- arts. 604 e 614, II, do CPC, por dois motivos: a) A lei não discriminaquais
+os itens devem constar da memória de cálculo, como exigiu o aresto recorrido;b)
+Todas as explicações relativas à evolução do débito estão contidas
+nodemonstrativo apresentado pela então exeqüente.
+II- art. 618, I, do CPC, porque não pode ser considerada ilíquida adívida
+apenas pela não apresentação da memória de cálculos na forma mencionadapela
+Cortea quo, devendo ser somente reconhecido o excesso de execução, se foro
+caso, mas não declarada a nulidade do feito.   
+III- art. 154, do CPC, uma vez que não pode ser invalidado odemonstrativo de
+cálculos, já que não há forma prevista para sua apresentação.
+Negado seguimento ao recurso, na origem, por ausência deprequestionamento e
+aplicação da Súmula 7⁄STJ, interpôs-se o presente agravo deinstrumento, no qual
+se sustenta que todas as questões aventadas foraprequestionadas e que não há
+necessidade de reexame de matéria fática.           
+Relatado o processo, decide-se.
+I- Da ofensa aos arts. 604 e 614, II, do CPC
+A alegada violação aos arts. 604 e 614, II, do CPC, concerne a duasordens de
+questões, como anteriormente exposto.
+A primeira destas diz respeito à impossibilidade de exigir-se que oexeqüente
+apresente, no demonstrativo de cálculos dos valores em execução,determinados
+critérios utilizados, quando a própria norma não obriga a tanto.
+Depreende-se do aresto recorrido, que a memória de cálculo juntadapela
+exeqüente, ora agravante, não permitia a compreensão da evolução domontante do
+débito, senão veja-se do seguinte trecho:
+" O singelo e franciscano demonstrativo de cálculo de fls. 13 nãopermite que o
+devedor possa atacar a exatidão da dívida por ausência dediscriminação
+específica, sendo este o seu pecado mortal.
+Para a correção monetária foi eleita a TBF, que tem variação mensal,entretanto
+o cálculo não diz quais os índices utilizados, isto sem contar que
+ajurisprudência, especialmente desta Câmara, não admite a utilização da TBF
+comoíndice de correção.
+Os juros deveriam ser calculados mês a mês para se saber se houveou não a
+proibida capitalização, caso contrário, ficamos no perigoso terrenopantanoso
+das hipóteses.
+Também é preciso se saber se foram cumulados juros compensatórioscom
+moratórios, o que o cálculo não esclarece, uma vez que tal não é
+permitido,conforme jurisprudência desta Câmara."(fl. 36)
+Apesar de não mencionar a lei quais os requisitos que deve conter omencionado
+demonstrativo de cálculo, é necessário que se preste a demonstrar aforma como
+foi calculado atualizadamente o montante dos valores em execução,pois é para
+este fim que o documento se destina.
+Oportuna a referência ao escólio do doutrinador Araken de Assis:
+"Fundando-se a execução em título judicial, cujo valor se apura atravésde
+simples operações aritméticas, reza o art. 604 que o credor a
+requererá,instruindo a inicial "com a memória discriminada e atualizada do
+crédito".Correlatamente, o art. 614, II, mercê da redação determinada pela Lei
+8.952⁄94,fundando-se a execução em título extrajudicial, exige "demonstrativo
+do débitoatualizado até a propositura da ação".
+(...)
+Evidentemente, não bastará o demonstrativo sumário, consignando ovalor do
+principal e respectivos acessórios. É necessário que o credor explicite
+oselementos e critérios empregados para atingir tal montante (por exemplo, a
+taxa dejuros e a forma de capitalização; o índice de correção monetária
+aplicado e sua basede cálculo). Isto permitirá ao devedor controlar a exatidão
+da quantia executada econtrovertê-la, se for o caso.ASSIS, Araken de. Manual do
+processo de execuÃ§Ã£o, 5Âª Ed., SÃ£o Paulo: Revista dos Tribunais, 1998. p.298
+Portanto, não atende à exigência positivada no art. 614, II, do CPC, ainstrução
+da petição inicial com memória que não esclarece a evolução do débito,deixando
+de discriminar os valores e as operações aritméticas a que recorreu ocredor
+para chegar ao valor executado.
+Não houve qualquer afronta, assim, ao apontado dispositivo legal.
+No tocante à segunda questão em que se fundamenta a violação aosartigos de lei
+mencionados, tem-se que esta se refere à conformidade dodemonstrativo de
+cálculo apresentado pela parte com os itens relacionados peloTribunala quo.
+De fato, seria necessário reexaminar as provas dos autos,notadamente o referido
+demonstrativo, para ser possível afirmar se este era ou nãosuficiente à
+comprovação aludida no aresto recorrido.
+Portanto, inadmissível o recurso pelo óbice da Súmula 7⁄STJ.          
+II- Da ofensa ao art. 618, I, do CPC
+A infringência ao art. 618, I, CPC, refere-se ao erro do Tribunala quoem
+entender nula a execução, por iliquidez da dívida, em razão do descumprimentodo
+art. 614, II, do CPC.
+Entende-se que a execução promovida sem a juntada dodemonstrativo de cálculo
+suficiente à comprovar a evolução do débito, pode tornarilíquido o título
+executivo, caso este não permita, por si só, claramente definir qual ovalor
+devido pelo executado.
+Dessa forma, caso o título executivo, mesmo sem ser acompanhadoda referida
+memória de cálculo, demonstra suficientemente a dívida e seu montante,não será
+necessário declara nula a execução, mas somente verificar a existência
+deeventual excesso. É o que aponta o seguinte precedente:
+"Contrato de crédito direto a usuário final e nota promissória.Execução.
+1. O contrato de crédito direto a usuário final não se confunde com ocontrato
+de abertura de crédito em conta corrente, servindo como título hábil
+paraexecução, à medida que contém valor certo, com pagamento de prestações de
+valortambém certo, mais os encargos previstos no contrato.
+2. A ausência do demonstrativo a que se refere o art. 614, II, doCódigo de
+Processo Civil, no caso, não interfere na liquidez e certeza do
+títuloconsiderando que o valor da execução foi aquele estabelecido no
+contrato,expurgando-se o excesso com o reconhecimento de nulidade de cláusula
+contratual,com apoio no Código de Defesa do Consumidor.
+3. Recurso especial não conhecido."
+(RESP 214.861⁄SC; Rel. Min. Carlos Alberto Menezes Direito; DJ26⁄06⁄2000)
+Acontrario sensu, portanto, é correta a declaração de nulidade daexecução, por
+iliquidez do título, caso insuficiente este para demonstrar o valor dadívida
+executada.
+In casu, somente a análise do contrato de confissão de dívida, no qualse
+lastreava o processo de execução, poderia indicar se o título era ou não apto
+a,sozinho, amparar a execução, ou se necessitava de demonstrativo de
+cálculocontendo as informações apontadas pelo Tribunala quo.
+Dessa forma, para se infirmar a conclusão do aresto recorrido, edeterminar-se o
+excesso de execução e não a nulidade, é imprescindível o reexamede matéria
+fático-probatória, que é inviável em sede de Recurso Especial.
+É o que já decidiu o seguinte julgado desta Corte:
+"(...)
+Por fim, destaco que o v. aresto recorrido afirmou a inidoneidade
+dodemonstrativo do débito, por não possibilitar o acompanhamento da evolução
+dadívida e, conseqüentemente, não poder atestar a sua legitimidade. Reverter
+essaconclusão não prescindiria de reexaminar matéria de prova, procedimento
+queesbarra no óbice da Súmula 7⁄STJ. Nesse sentido, vide os REsp's 279.474⁄SC
+e97.748⁄PB, 4ª Turma, rel. em. Min. Aldir Passarinho Júnior, DJ 12.02.2001
+e09.10.2000."(Ag 373.184; Rel. Min. Ruy Rosado de Aguiar; DJ 06⁄06⁄2001).
+É de aplicar-se a Súmula 7⁄STJ.
+III- Da ofensa ao art. 154, do CPC
+A respeito da alegada afronta ao art. 154, do CPC, tem-se que esta érelativa á
+mesma questão aventada em razão da violação dos arts. 604 e 614, II, doCPC: a
+inexigência legal de requisitos pré-determinados para o demonstrativo
+decálculos em processo de execução.
+Conforme já anteriormente exposto, também não houve qualquerofensa ao art. 154,
+do CPC, uma vez que o Tribunala quoexigiu corretamente quea memória de cálculos
+apresentada pelo exeqüente apenas contivesse itensnecessários à verificação da
+evolução do débito em execução, que é a finalidade dopróprio ato.
+Forte em tais razões, NEGO PROVIMENTO ao agravo de instrumento.
+Publique-se. Intime-se.
+Brasília, 07 de agosto de 2001.
+ 
+ 
+                            MINISTRA Nancy Andrighi
+                                   Relatora.
+
+Documento: 113168 Despacho / DecisÃ£- DJ: 17/08/2001

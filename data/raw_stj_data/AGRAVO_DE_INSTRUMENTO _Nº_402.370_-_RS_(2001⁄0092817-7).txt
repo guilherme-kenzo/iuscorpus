@@ -1,0 +1,125 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DE INSTRUMENTO  Nº 402.370 - RS (2001⁄0092817-7)
+        RELATORA  : MINISTRA NANCY ANDRIGHI
+        AGRAVANTE : BANCO DO ESTADO DO RIO GRANDE DO SUL S⁄A -BANRISUL
+        ADVOGADO  : JÚLIO CÉSAR TRICOT SANTOS E OUTROS
+        AGRAVADO : MANOEL MIRANDA DA SILVA JÚNIOR E OUTRO
+ 
+ 
+Processual civil. Agravo de Instrumento. Execução. Expedição de ofícioao Banco
+Central. Prequestionamento. Dissídio jurisprudencial.Comprovação.
+- Inexiste ilegalidade na decisão que aprecia o pedido, feito emprocesso de
+execução, de expedição de ofício ao Banco Central parainformação acerca da
+existência de depósitos bancários em nome doexecutado, e entende ser
+desnecessária e inadeqüada a diligência.
+- O Recurso Especial carece do necessário prequestionamentoquando o aresto
+recorrido não examina a questão federal suscitada.
+- O dissídio jurisprudencial deve ser comprovado através do cotejoanalítico
+entre os julgados tidos como divergentes. 
+ 
+                                    DECISÃO
+ 
+Cuida-se de Agravo de Instrumento interposto pelo Banco do Estadodo Rio Grande
+do Sul, contra despacho que negou seguimento a Recurso Especialfundamentado no
+art. 105, III, letras "a" e "c", da Constituição Federal, interpostocontra
+acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, emexecução.
+Narram os autos que o ora recorrente requereu, nos autos deexecução que
+promovia em face do ora recorrido, a expedição de ofício ao BancoCentral para
+informação de depósitos bancários em nome do executado, ou devalores
+mobiliários.
+Indeferido o pedido, foi interposto agravo de instrumento, perante acorte de
+origem, ao qual negou-se provimento em acórdão assim fundamentado:
+"(...), no caso concreto, entendendo inviável a diligênciapretendida pelo
+agravante.
+Isso porque a solicitação junto ao Banco Central sobrepossível localização de
+ativos financeiros em nome do devedor gerapesquisa junto a toda rede bancária
+do país, ocasionando uma sériede informações que vão sendo apresentadas,
+paulatinamente,paralisando assim o regular andamento do feito."(fl.37)
+ 
+Irresignado, o ora agravante interpôs Recurso Especial alegandoviolação aos
+seguintes dispositivos legais:
+I- art.399, I, do CPC, ao negar-se o pedido de ofício ao Banco Central.
+II- art. 600, IV, do CPC, porque o executado não havia indicado bens àpenhora.
+Sobre estas questões, alega, ainda, que há divergência jurisprudencial.
+Negou-se seguimento ao Recurso Especial por ausência deprequestionamento e não
+comprovação do dissídio jurisprudencial.
+Daí o presente agravo de instrumento, no qual se sustenta que todasas questões
+aventadas foram debatidas e que foi devidamente demonstrada adivergência
+pretoriana.
+Relatado o processo, decide-se.
+ 
+                      I- Da ofensa ao art. 399, I do CPC
+A afronta ao art.399, I, do CPC concerne à necessidade dos ofícios aoBanco
+Central a fim de não ser frustrada a execução. 
+O juízo de primeiro grau de jurisdição indeferiu o pedido de diligência,ao
+argumento de que o Banco Central apenas fornece informação coletada deoutros
+bancos, enquanto o Tribunala quoacrescentou a ponderação de que talprática se
+revela muito demorada.
+Portanto, não se afirmou ser impossível a requisição de informaçõesao Banco
+Central, estando a fundamentação de ambos os julgados adstrita àspeculiaridades
+do caso em exame.
+Ademais, a violação àquela norma restringe-se à hipótese em quereste
+demonstrado o exaurimento de vias normais para obtenção das
+informaçõesrequeridas pelo exeqüente, o que não consta da apreciação fático-
+probatóriarealizada pela corte de origem.
+É o que já ficou decidido no REsp 311.592⁄SP, Rel. Min. Cesar AsforRocha, DJ
+08⁄06⁄2001:
+"O decisório está em harmonia com a jurisprudênciaassente nesta Corte que não
+encontra "justificativa na providência quese persegue, com o fim de localização
+de bens do devedor para apenhora, no interesse exclusivamente patrimonial do
+credor" (REsp160975⁄SP, DJ de 14⁄09⁄1998, Relator Min. COSTA LEITE).
+(...)
+A requisição judicial, em matéria deste jaez, apenas sejustifica desde que haja
+intransponível barreira para a obtenção dosdados solicitados por meio da via
+extrajudicial e, bem assim, ademonstração inequívoca de que a exeqüente envidou
+esforços paratanto, o que se não deu na espécie, ou, pelo menos, não
+foidemonstrado.Falecendo demonstração cabal de que foram exauridas,sem êxito,
+as vias administrativas para obtenção de informaçõesreferentes aos bens dos
+sócios, não há demonstração de vulneraçãoaos arts. 399 do CPC e 198 CTN, que
+conferem ao magistrado apossibilidade de requisitá-las."
+ 
+Assim, diante da moldura fática traçada pelo tribunala quo, nãoocorreu ofensa
+ao apontado dispositivo legal, salientando-se que" a ordem contidano artigo
+399-I da lei processual, não obstante a imperatividade de que se reveste otermo
+'requisitará' nela estampado, não afasta, sequer diminui, o poder no qual
+seencontra investido o magistrado de avaliar, em cada caso, a necessidade
+dadiligência requerida."(REsp 163.810⁄SE, Rel. Min. Sálvio de Figueiredo
+Teixeira)
+Oportuna, ainda a transcrição do REsp 218.464⁄SE, Rel. Min. AriPargendler, DJ
+06⁄02⁄2001:
+"Trata-se de recurso especial contra acórdão que, emface de execução por título
+extrajudicial, manteve o indeferimento deofício ao Banco Central do Brasil para
+localização de contas dodevedor.
+A teor do recurso, houve violação ao artigo 399 doCódigo de Processo Civil, bem
+como divergência jurisprudencial (fl.88⁄115).
+O sigilo bancário não teria qualquer consistência se, paraaparelhar a execução,
+o credor pudesse desvelar os saldosdepositados pelo devedor em instituições
+financeiras. Inviável,portanto, o pedido de solicitação de informações ao Banco
+Central.Precedentes do Superior Tribunal de Justiça: AgRgAg 184.948, SP,Rel.
+Min. Eduardo Ribeiro,DJ 22.03.99; REsp 128.461, PR, Rel. Min.Cesar Rocha, DJ
+12.04.99;AgRgAg 150.244, SP, Rel. Min. AldirPassarinho Junior, DJ 30.08.99."
+ 
+                    II- Da violação ao art. 600, IV, do CPC
+Acerca da matéria jurídica versada no art. 600, IV, do CPC, nadadiscutiu o
+tribunala quo,restando ausente o necessário prequestionamento.
+Aplicam-se as Súmulas 282 e 356⁄STF.
+ 
+                       III- Do dissídio jurisprudencial
+Relativamente à pretensão calcada na alínea "c", do permissivoconstitucional,
+tem-se que o ora agravante não realizou o cotejo analítico entre osjulgados, o
+que se fazia necessário afim de acentuar a similitude fática dos
+casosconfrontados. 
+Desobedecido, portanto, o disposto no art. 541, parágrafo único e 255,§ 2º, do
+RISTJ.  
+Forte em tais razões, nego provimento ao agravo de instrumento. 
+Publique-se.
+Brasília (DF), 21 de setembro de 2001.
+ 
+ 
+                            MINISTRA NANCY ANDRIGHI
+                                   Relatora
+
+Documento: 153361 Despacho / DecisÃ£- DJ: 28/09/2001

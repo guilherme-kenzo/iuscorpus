@@ -1,0 +1,100 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DE INSTRUMENTO Nº 343.603 - RS (2000⁄0117176-3)
+            RELATOR   : MINISTRO ARI PARGENDLER
+            AGRAVANTE : BCN LEASING ARRENDAMENTO MERCANTIL S⁄A
+            ADVOGADO  : ÉLVIO CASTIGLIA DE SOUZA E OUTROS
+            AGRAVADO : APS PROJETOS ELETRICOS E REPRESENTAÇÕESLTDA
+            ADVOGADO  : IRANI MARIANI E OUTRO
+ 
+                                    DECISÃO
+ 
+No julgamento do REsp nº 196.209, RS, Relator o Ministro WaldemarZveiter, a
+Terceira Turma do Superior Tribunal de Justiça decidiu que aantecipação do
+valor residual garantido descaracteriza oleasing, porque aopção de compra e
+venda é imposta no início da execução do contrato(Sessão de 09.11.2000).
+ 
+Fiquei vencido, à base da seguinte motivação.
+ 
+"A Lei nº 6.099, de 1974, 'dispõe sobre o tratamento tributário dasoperações de
+arrendamento mercantil'. O efeito do § 1º do artigo 11 dessediploma legal,
+considerando 'operação de compra e venda' o contrato dearrendamento feito em
+desacordo com as disposições da lei, é o dedesqualificar como custo ou despesa
+operacional da arrendatária asprestações pagas (art. 11,caput). À míngua de
+qualquer outra previsão, adesclassificação só produz efeitos no âmbito
+tributário. Nem teria sentido queum negócio, só viabilizado por força de
+financiamento, pudesse serdesfigurado em razão do tratamento tributário. O
+aludido efeito tributário nãoaltera a essência do negócio celebrado entre as
+partes, sendo resultado deoutra relação, entre o Estado e a arrendatária. Esse
+fenômeno estápressuposto no artigo 109 do Código Tributário Nacional, que o
+valorizou soboutro prisma, a saber: 'Os princípios gerais de direito privado
+utilizam-se parapesquisa da definição, do conteúdo e do alcance de seus
+institutos, conceitose formas, mas não para definição dos respectivos efeitos
+tributários'. Nãohavendo lei, no âmbito do direito privado, proibindo a
+antecipação do valorresidual garantido, as partes podiam, sim, dispor a
+respeito, como simplesdecorrência da liberdade contratual.Quid, se o próprio
+Ministro da Fazenda,pela Portaria MF nº 140, de 27 de julho de 1984, resolveu
+que 'As parcelas deantecipação do valor residual garantido ou do pagamento por
+opção decompra serão tratadas como passivo do arrendador e ativo do
+arrendatário,não sendo computadas na determinação  do  lucro  real'? Em outras 
+palavras,se a Administração Fazendária, à vista da cláusula de antecipação do
+valorresidual garantido, não extraiu os efeitos previstos no § 1º do artigo 11
+da Leinº 6.099, de 1974, a que título a relação entre as partes poderia ser
+modificadapor uma 'ação revisional'?
+ 
+O arrendamento mercantil é um contratosui generis. Decompostoatomisticamente,
+nele pode-se identificar cláusulas de locação, de promessade compra e venda e,
+quando o arrendatário recebe do arrendador poderespara adquirir o bem, de
+mandato. O conjunto, todavia, é diferente de suaspartes, e nem é o mesmo em
+todos os casos. O arrendamento mercantil temuma função econômica importante
+quando a arrendatária é uma pessoajurídica. Dá-lhe meios de produção, de um
+lado, e, de outro, facilita-lhe ascoisas, pela redução dos encargos fiscais. Ao
+invés de investimentos próprios,a pessoa jurídica paga um aluguel e, como ganho
+secundário, aproveita orespectivo montante como custo ou despesa operacional,
+diminuindo o lucrooperacional. Já a pessoa física opta pelo arrendamento
+mercantil quando ascondições lhe pareçam mais favoráveis do que as outras
+formas definanciamento, sem outras conseqüências. Quando, num ou noutro caso,
+ovalor residual garantido é antecipado gradualmente, o montante dessasparcelas
+e das  contraprestações representa, ao final do contrato, o custo totalda
+operação financeira, se regularmente cumprido.
+ 
+Diversamente do que ocorre nos financiamentos em geral, noarrendamento
+mercantil o custo do dinheiro não é identificado por institutosjurídicos, v.g.,
+juros remuneratórios ou capitalização de juros. No empréstimode dinheiro, pode-
+se discutir a taxa de juros (se limitada ou não) e a suacapitalização (se
+permitida, ou não). No arrendamento mercantil, o custo dodinheiro, aí não
+incluída a correção monetária, está embutido nascontraprestações, sendo
+impossível, por exemplo, discutir juros e capitalizaçãode juros - estranhos ao
+contrato, que só prevê o montante das  prestações, orespectivo número, o valor
+residual garantido, a correção monetária e, no casode inadimplemento, comissão
+de permanência, multa e juros moratórios. Defato, como distinguir  o que, no
+custo do dinheiro, representa juros e o quecorresponde à sua capitalização ?".
+ 
+Prevaleceu, ainda, o ponto de vista de que, mesmo descaracterizado oleasing, os
+juros não estão limitados à taxa de 12% (doze por cento) ao ano.Exemplo disso é
+o julgamento do REsp nº 234.437, RS, Relator o eminenteMinistro Ruy Rosado de
+Aguiar, cujo acórdão foi assim ementado:
+ 
+"LEASING. VRG. Juros. Capitalização. Repetição do indébito. Acobrança
+antecipada do valor residual de garantia desfigura o contrato deleasing, que é
+tratado como um contrato de compra e venda. É permitida acobrança de juros nos
+termos autorizados pelo CMN, mas é proibida acapitalização mensal..." (DJU,
+21.02.2000).
+ 
+É exigível a cobrança da taxa referencial, quando expressamentecontratada -
+como aqui ocorre.
+ 
+ 
+Ante o exposto, conheço do recurso especial e lhe dou provimento, emparte, para
+declarar a exigibilidade da cobrança da taxa referencial e paraafastar o
+fundamento infraconstitucional do julgado quanto à taxa dos juros.
+Intimem-se.
+Brasília, 26 de setembro de 2001.
+ 
+ 
+                            MINISTRO ARI PARGENDLER
+                                    Relator
+
+Documento: 158630 Despacho / DecisÃ£- DJ: 05/10/2001

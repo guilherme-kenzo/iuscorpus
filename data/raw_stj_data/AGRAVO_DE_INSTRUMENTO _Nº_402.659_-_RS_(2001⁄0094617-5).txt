@@ -1,0 +1,110 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DE INSTRUMENTO  Nº 402.659 - RS (2001⁄0094617-5)
+        RELATOR   : MINISTRO ANTÔNIO DE PÁDUA RIBEIRO
+        AGRAVANTE : BANCO DO ESTADO DO RIO GRANDE DO SUL S⁄A - BANRISUL
+        ADVOGADO  : FLÁVIO NIENOW DE MEIRELLES E OUTROS
+        AGRAVADO : RICARDO MAESKI E OUTRO
+        ADVOGADO  : CLEMIR FERNANDO DOS SANTOS CORRÊA
+ 
+EMENTA
+ 
+Arrendamento mercantil.Leasing. VRG. Pagamentoantecipado. Descaracterização do
+contrato para compra e venda aprestações. TR. Possibilidade de utilização.
+I - Descaracterizado pelo pagamento antecipado do valorresidual garantido, o
+contrato de leasing transforma-se em compra evenda a prestações. Súmula nº
+83⁄STJ. Aplicação.
+II - A taxa referencial pode ser utilizada para a correçãomonetária do
+contrato, desde que pactuada, como no presente caso.Precedentes.
+III -  Recurso especial parcialmente provido.
+ 
+                                    DECISÃO
+ 
+Trata-se de agravo de instrumento interposto contra decisão que negouseguimento
+a recurso especial fundado na existência de divergência jurisprudencial(CF,
+105, III, "c"). A razão do inconformismo é a descaracterização do contrato
+deleasing para compra e venda a prestações e o afastamento da taxa referencial
+(TR)como índice de correção monetária do contrato. No que interessa ao presente
+recurso,o acórdão recorrido assim dispôs:
+ 
+"Então, se o autor está pagando parcela para amortizar ocapital juntamente com
+o valor residual, em verdade ele está pagandopela aquisição do bem. Isto não é
+leasing, pouco importando o nomemjuris que as partes emprestado ao contrato. A
+natureza do contrato, emverdade, deve ser retirada de suas cláusulas, do teor
+da pactuação e desua operacionalidade" (sic, fl. 26).
+ 
+"Limitados os juros, faz-se necessário a utilização de umindexador. Elege-se o
+IGP-M, que recompõe satisfatoriamente o poderaquisitivo da moeda e encontra
+respaldo na jurisprudência desteTribunal." (sic, fl. 30)
+ 
+No que concerne à descaracterização do contrato deleasing, o recursonão merece
+provimento à vista da remansosa jurisprudência desta Corte. É que, com
+ojulgamento dos REsp 196.209⁄RS e 236.043⁄RS, da relatoria do eminente
+MinistroWaldemar Zveiter, em 09⁄11⁄2000 esta Corte, pela sua 2.ª Seção,
+pacificouentendimento no sentido de reconhecer que a antecipação do pagamento
+do valorresidual garantido (VRG) descaracteriza aquela espécie de contrato,
+transfigurando-aem compra e venda a prestações. Vejam-se: REsp 257.603⁄RS, rel.
+Min. Ruy Rosadode Aguiar, Quarta Turma, DJ de 13⁄11⁄2000; REsp 255.628⁄SP, rel.
+Min. Sálvio deFigueiredo Teixeira, Quarta Turma, DJ de 11⁄09⁄2000); REsp
+163.845⁄RS, rel. Min.Waldemar Zveiter, Terceira Turma, DJ de 11⁄10⁄1999.
+Incide, na hipótese, oenunciado 83⁄STJ.
+Quanto à TR, predomina neste Tribunal a orientação de que a referidataxa pode
+ser utilizada na correção monetária dos contratos  desde queexpressamente
+pactuada, como no caso destes autos. Nesse sentido, os seguintesjulgados:
+"LEASING- ARTS. 499 E 1080 DO CÓDIGO CIVIL E 927 DOCPC - AUSÊNCIA DE
+PREQUESTIONAMENTO - JUROS - LIMITAÇÃO- INADMISSIBILIDADE - TR - APLICAÇÃO
+QUANDO PACTUADA.
+I - Não se aplica a limitação de juros de 12% ao ano previstana Lei de Usura
+aos contratos de arrendamento mercantil. Precedentes.
+II - A Taxa Referencial é válida, não podendo ser substituídapor outro índice
+de correção monetária, quando foi expressamentepactuada no contrato.
+III - Recurso parcialmente conhecido e, nessa parte, provido."(REsp 237.380-RS,
+rel. Min. Waldemar Zveiter, DJ de 12⁄02⁄2001,Terceira Turma).
+ 
+"Leasing. Cobrança antecipada do Valor Residual Garantido(VRG). Compra e venda.
+Limitação da taxa de juros. Juros de mora.Capitalização. Comissão de
+Permanência. Taxa Referencial (TR).
+(...)
+4. Na linha de precedentes desta Corte, a Taxa Referencial(TR), quando
+pactuada, pode ser utilizada na correção monetária dodébito.
+(...)
+6. Recurso especial não conhecido."(REsp 241.845-SP, rel.Min. Carlos Alberto
+Menezes Direito, DJ de 05⁄02⁄2001, Terceira Turma).
+ 
+"LEASING. TAXA DE JUROS. SÚMULA Nº 596-STF.CAPITALIZAÇÃO. INADMISSIBILIDADE.
+ATUALIZAÇÃO MONETÁRIA.TR.
+Cuidando-se de operações realizadas por instituiçõesintegrantes do Sistema
+Financeiro nacional, não se aplicam asdisposições do Decreto nº 22.626⁄33
+quanto à taxa de juros. Súmula nº596-STF. Somente nas hipóteses em que
+expressamente autorizada porleis especiais a capitalização mensal dos juros se
+mostra admissível. Nosdemais casos é vedada, mesmo quando pactuada, não tendo
+sidorevogado pela Lei nº 4.545⁄64 o art. 4º do Dec. nº 22.626⁄33.
+Dessaproibição não se acham excluídas as instituições financeiras.
+Quando convencionada, é possível a utilização da TR comofator de atualização
+monetária.
+Recurso especial conhecido, em parte, e provido."(REsp258.647-RS, rel. Min.
+Barros Monteiro, DJ de 11⁄12⁄2000, Quarta Turma).
+ 
+"LEASING. Valor residual garantido. Caução. Juros. TR.
+- A cobrança antecipada do VRG descaracteriza oleasing. Acobrança de um
+sobrepreço, a título de caução, não tem causa.
+- Os juros podem ser calculados de acordo com o autorizadopelo CMN.
+Jurisprudência predominante no STJ. Súmula 596⁄STF.
+- A TR, quando contratada, pode ser usada como índice deinflação. Ressalva do
+relator.
+- Recurso conhecido em parte e provido."(REsp 249.649-RS,rel. Min. Ruy Rosado
+de Aguiar, DJ de 27⁄11⁄2000, Quarta Turma).
+ 
+Ante o exposto, com apoio no artigo 544, § 3.º, do CPC, conheço doagravo de
+instrumento e dou parcial provimento ao recurso especial para manter a TRcomo
+índice de correção monetária.
+Ônus sucumbenciais redistribuídos  segundo os critérios do artigo 21, doCPC.
+Publique-se e intimem-se.
+Brasília, 27 de setembro de 2001.
+ 
+ 
+                       Ministro Antônio de Pádua Ribeiro
+
+Documento: 158791 Despacho / DecisÃ£- DJ: 11/10/2001

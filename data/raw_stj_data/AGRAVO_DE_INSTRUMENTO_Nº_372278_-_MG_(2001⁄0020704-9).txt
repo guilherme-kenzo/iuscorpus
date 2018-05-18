@@ -1,0 +1,95 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DE INSTRUMENTO Nº 372278 - MG (2001⁄0020704-9)
+RELATOR:MINISTRO ANTÔNIO DE PÁDUA RIBEIRO
+AGRAVANTE:BASF S⁄A
+DEN.ANT.:GLASURIT DO BRASIL LTDA
+ADVOGADO:PEDRO SCHMIDT DE BRITO E OUTROS
+AGRAVADO:MANSAO MATERIAIS PARA CONSTRUCAOLTDA
+ADVOGADO:RENATA TOME BORGES E OUTRO
+                                    EMENTA
+DIREITO PROCESSUAL CIVIL. AÇÃO DE NULIDADE DECHEQUE CUMULADA COM PEDIDO DE
+INEXISTÊNCIA DERELAÇÃO CAMBIAL E PERDAS E DANOS. CABIMENTO. DIREITOCIVIL.
+PREENCHIMENTO ABUSIVO DO CHEQUE. REEXAME DEPROVA.
+I – NÃO HÁ QUE SE FALAR EM VIOLAÇÃO DOS ARTS. 458,II, E 535 DO CPC SE O ACÓRDÃO
+RECORRIDO ÉFUNDAMENTADO E NÃO OSTENTA OMISSÃO, CONTRADIÇÃO OUOBSCURIDADE A
+RECLAMAR OPOSIÇÃO DE EMBARGOSDECLARATÓRIOS.
+II – "A PRETENSÃO DE SIMPLES REEXAME DE PROVANÃO ENSEJA RECURSO ESPECIAL"
+(SÚMULA Nº 7⁄STJ).
+III – AGRAVO DE INSTRUMENTO DESPROVIDO.
+                                    DECISÃO
+Trata-se de agravo de instrumento contra decisão denegatória derecurso especial
+fundamentado na alínea "a" do permissivo constitucional.
+A agravante aponta contrariedade dos artigos 20, § 3º; 145; 165; 295,parágrafo
+único, inciso III; 458, II; 535 do Código de Processo Civil, dos artigos159,
+1.059, 1.060 do Código Civil e dos artigos 1º, 2º, 15 e 16 da Lei nº7.357⁄85.
+Não se vislumbra violação do art. 535 do CPC. A contradição alegadanos embargos
+de declaração (fl. 41) não foi demonstrada e a respeito do temaali suscitado
+manifestou-se o Tribunal a quo, explicitando os motivos dafixação do percentual
+dos honorários advocatícios. Portanto, a rejeição dosembargos, em decisão
+fundamentada, não implicou afronta ao referidodispositivo ou ao art. 458 do
+CPC.
+Também não se entrevê ofensa do art. 20 do CPC. Como dito, oacórdão recorrido
+trouxe a fundamentação acerca da fixação dos honorários,conforme pedido pela
+agravante.
+Quanto aos demais artigos tidos por vulnerados, a argumentaçãodesenvolvida pela
+agravante traz consigo a necessidade do reexame de prova.
+É que não importa para o desfecho da lide o fato, por ela alegado, deque a
+emissão de cheques em branco constitui mandato tácito, de maneiraque os títulos
+podem ser preenchidos pelo próprio credor. Ocorre que, nopresente caso,
+constatou-se que o preenchimento das cártulas foi abusivo,ultrapassando em
+muito o valor devido.
+Sobre o tema, consignou-se no acórdão recorrido:
+ 
+"a prova coletada, principalmente a pericial, é por demaisprecisa a respeito. A
+despeito da alegada permissão legal para acobrança desacompanhada das
+respectivas duplicatas (cobrançaescritural) provado nos autos que o somatório
+dos cheques é quasetrês vezes o valor das notas fiscais. A prova pericial
+contábil de f.308⁄316 é precisa a respeito, conforme respostas de f. 309 e 310.
+Nodizer do expert, o montante das NF.s representativas dos negóciostravados
+entre as partes é de CR$ 261.509.251,84 (duzentos esessenta e um milhões,
+quinhentos e nove mil, duzentos e cinqüenta eum cruzeiros reais e oitenta e
+quatro centavos), ao passo que oscheques emitidos somam CR$ 602.060.217,40
+(seiscentos e doismilhões, sessenta mil, duzentos e dezessete cruzeiros reais e
+quarentacentavos)" (fl. 35).
+ 
+Tendo em vista justamente o preenchimento abusivo que alegava, aagravada
+ajuizou ação de nulidade do título, cumulada com perdas e danos. Econforme
+precedente citado pela própria agravante, "enriquecimento indevidoalegado no
+preenchimento da importância devida foge ao direito cambiário,integrando-se no
+direito comum" (fl. 54). Ou ainda, "quando admitido o exameda causa debendi, a
+prova deve levar à convicção sem sombra de dúvida" (fls.54⁄55).
+Ou seja, a causa debendi não teria relevo na ação cambial. Mas aagravada
+ajuizou a medida adequada com o propósito de discutir o negóciojurídico
+subjacente, na qual teve oportunidade de produzir prova acerca doabuso do
+mandato. E isto não significa desprezo aos atributos do cheque,como a abstração
+ou a autonomia.
+Dessarte, não se pode acolher a alegação da agravante de que osvalores
+registrados no título representam simples atualização daquelesconstantes das
+faturas, dada a incidência do enunciado nº 7 da Súmula destaCorte. Pelo mesmo
+motivo, não se admite o recurso especial para ademonstração acerca da
+inexistência de dano efetivo, consistente no abalo decrédito sofrido pela
+agravada com o protesto dos títulos preenchidosabusivamente.
+Oportuno destacar que o argumento do agravante para afastar aaplicação da
+referida súmula foi bem analisado na decisão agravada, nosseguintes termos:
+ 
+"Preliminarmente, repele-se a tentativa de se fazer crer que osuposto erro
+quanto à prova destes autos tenha sido de valoração. Sóhá erro de valoração se
+ocorre erro de direito quanto ao valor da prova,abstratamente considerada. In
+casu, a pretensão recursal limita-se arejeitar as conclusões que lhe foram
+desfavoráveis, objetivandoreapreciação dos elementos probatórios, de forma a se
+concluir seforam, ou não, bem interpretados; é questão, portanto, que
+secircunscreve ao terreno dos fatos. E repisar tema probatório, pugnandopor
+nova apreciação, é hipótese vedada em se tratando de recursoespecial, face à
+Súmula nº 7 do STJ" (fls. 65⁄66).
+ 
+Posto isso, nego provimento ao agravo de instrumento.
+Publique-se e intimem-se.
+Brasília, 4 de maio de 2001.
+ 
+ 
+                       Ministro Antônio de Pádua Ribeiro
+
+Documento: 37031 Despacho / DecisÃ£- DJ: 01/06/2001

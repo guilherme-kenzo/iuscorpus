@@ -1,0 +1,275 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DE INSTRUMENTO Nº 399.301 - RS (2001⁄0087930-4)
+                  RELATORA  : MINISTRA NANCY ANDRIGHI
+                  AGRAVANTE : BANCO BRADESCO S⁄A
+                  ADVOGADO  : OSIRIS ANTINOLFI FILHO E OUTROS
+                  AGRAVADO  : ERVALDO KONRADT
+                  ADVOGADO  : ITATIANE FLORENCE SILVEIRA
+ 
+ 
+Agravo de Instrumento. Ação de Revisão Contratual. Contrato deabertura de
+crédito. Limitação dos juros a 12% ao ano. Capitalização.Atualização monetária.
+Taxa Referencial. Comissão de permanência.Prequestionamento.
+- A limitação dos juros a 12% ao ano não se aplica às taxas dejuros cobradas
+pelas instituições bancárias.
+- Nos contratos bancários, a capitalização de juros é admitidaapenas de ano em
+ano.
+- Não se conhece do recurso especial pela divergência, quando aorientação do
+Tribunal se firmou no mesmo sentido da decisãorecorrida.
+- Desde que pactuada, é possível a aplicação da taxa referencial(TR) para a
+atualização do débito. Precedentes do STJ.
+- Não é válida a comissão de permanência cumulada comcorreção monetária ou
+juros e multa moratórios.
+- O prequestionamento dos dispositivos legais tidos comoviolados constitui
+requisito de admissibilidade do recurso especial
+                                    DECISÃO
+Cuida-se de Agravo de Instrumento interposto pelo Banco BradescoS⁄A, contra
+decisão que negou seguimento a recurso especial arrimado nasalíneas "a" e "c"
+do permissivo constitucional.
+O ora agravado ajuizou ação de revisão de cláusulas contratuais, emcontrato de
+abertura de crédito fixo com garantia de alienação fiduciária, cumuladacom
+pedido de antecipação de tutela. Afirmou, em suas razões, que o bancoagravante
+vem cobrando valores excessivos mediante a capitalização mensal dejuros
+remuneratórios, cobrança juros superiores a 12% ao ano e correçãomonetária pela
+TR. O d. Juízo monocrático julgou procedentes os pedidos para: a)tornar
+definitiva a liminar concedida, impedindo o lançamento do nome doagravado nos
+cadastros de devedores; b) limitar os juros remuneratórios a 12% aoano e os
+juros moratórios em 1% ao ano, permitida a capitalização anual; c) fixar oIGP-
+M como índice de correção monetária; d) condenar o agravante aopagamento das
+custas processuais e honorários advocatícios fixados em 20%sobre o valor da
+causa.
+Irresignado, recorreu o agravante ao e. Tribunala quo. O v. arestorestou assim
+ementado:
+"AÇÃO ORDINÁRIA REVISIONAL C⁄C PEDIDOS DEANTECIPAÇÃO DE TUTELA DE CONTRATO DE
+ABERTURA DECRÉDITO FIXO - FINAME, COM PACTO ADJETO DE ALIENAÇÃOFIDUCIÁRIA.
+INTERPRETAÇÃO DE CLÁUSULAS DE NEGOCIOJURÍDICO.
+I - CONTROLE DIFUSO DA LICITUDE DOSNEGÓCIOS JURÍDICOS.
+CÓDIGO DE DEFESA DO CONSUMIDOR.
+O código de Proteção ao Consumidor (lei n 8.078⁄90) éaplicável aos negócios
+jurídicos firmados entre os agenteseconômicos, as instituições financeiras e os
+usuários de seusprodutos e serviços (art. 3º, par. 2º), importando na
+declaração denulidade absoluta das cláusulas viciadas por abuso de
+podereconômico, excesso de onerosidade e⁄ou enganosidade negocial(art. 51, e
+par. 1).
+REVISÃO JUDICIAL DOS NEGÓCIOS JURÍDICOS E ARELATIVIZAÇÃO DO PRINCIPIO DO "PACTA
+SUNT SERVANDA".
+A aplicação dos princípios jurídicos que regem aspolíticas publicas mandatórias
+de proteção ao consumidor relativizamo principio do "pacta sunt servanda" e
+autorizam a revisão judicialdos negócios como meio de aplicação do direito.
+A NULIDADE ABSOLUTA DE CLÁUSULASCONSTITUÍDAS SOB ABUSO DE PODER ECONÔMICO
+EEXCESSO DE ONEROSIDADE.
+Cláusulas de preceito obrigacional viciadas por abusode poder econômico e
+excesso de onerosidade dos encargosfinanceiros são invalidas de pleno direito e
+não servem defundamento para a incidência de cláusulas de sanção
+avençadas,dentre as quais inserem-se as cláusulas de vencimento prévio
+dasobrigações pecuniárias e seus acessórios e as de resoluçãounilateral
+antecipada do negócio e suas garantias, razão pela qualestas cláusulas de
+sanção, quando em si mesmas despidas denulidade, são ineficazes para a
+caracterização da mora do devedor ea desconstituição extrajudicial ou judicial
+do negocio de consumorealizado, cuja validade jurídica deve estar estruturada
+em princípiosde equidade, isonomia retributivo-comutativa e boa-fé, sem os
+quaispadece de nulidade como um todo.
+II. - DISCIPLINA JURÍDICA DAS OBRIGAÇÕES DEDAR "IN PECÚNIA" E PREÇO DO DINHEIRO
+NOS NEGÓCIOS DECONSUMO.
+CLÁUSULAS DE FIXAÇÃO E COBRANÇA DE JUROSNOS NEGÓCIOS JURÍDICOS.
+Os juros compensatórios e os juros "propter moram",cada um no seu respectivo
+âmbito de estipulação e incidência, sãoos únicos componentes de remuneração na
+composição estrutural dopreço do dinheiro pertinente ao capital "in natura"
+investido nosnegócios jurídicos.
+A estipulação do preço do dinheiro encontra limite noprincipio da equidade
+retributiva dos negócios jurídicos, âmbito emque o abuso de poder econômico e o
+excesso de onerosidade dosencargos pecuniários unilateralmente pactuados
+caracterizamconduta de lesa-cidadania, promovendo o enriquecimento ilícito
+docredor e o simultâneo empobrecimento sem causa do devedor,sendo nulas as
+cláusulas que prevejam a fixação e a cobrança dejuros superiores a 12% ao ano.
+CAPITALIZAÇÃO DE JUROS. VEDAÇÃO DEANATOCISMO.
+A prática do anatocismo e vedada pelo art. 4ºda lei dausura, sendo nula a
+cláusula que, sem expressa autorização legalpara a espécie de negocio jurídico
+entretido, prevê a capitalização dejuros, ou, tendo-a, fixa-a em periodicidade
+menor do que a permitidaem lei.
+Capitalização anual mantida no caso concreto, aausência de recurso do A.
+CORREÇÃO MONETÁRIA PURA. NULIDADEMATERIAL DE INDEXADOR REMUNERATÓRIO-
+FINANCEIROCOMO PARÂMETRO DE CORREÇÃO MONETÁRIA PURA.
+Em economia inflacionária, a correção monetária pura éum "plus" neutro agregado
+ao preço do dinheiro pertinente ao capital"in natura" investido, cuja única
+finalidade e evitar um "minus"materializado na perda do poder aquisitivo
+nominal da moedacirculante, tendo natureza jurídica e função econômica distinta
+einconfundível com a dos juros - componente estrutural externoremuneratório do
+capital principal -, sendo vedada a sua indexaçãona TR⁄D, TBF, TBC, variação
+cambial ilícita, taxa ANDBID⁄CETIP ouqualquer outro índice que contenha
+internamente um componenteestrutural de remuneração financeira.
+Assim, independentemente do "nomem juris" que se lhede funcionalmente no
+negócio, padece de nulidade material absolutaa cláusula que os adota como
+indexador de correção monetária(impura), caracterizando espécie de anatocismo
+no cálculo estruturaldas obrigações pecuniárias, resultante de juros nominados
+sobrejuros inominados, ensejando o enriquecimento ilícito do credor e
+osimultâneo empobrecimento sem causa do devedor, devendo oindexador viciado ser
+substituído pelo IGP-m.
+CORREÇÃO MONETÁRIA PURA E COMISSÃO DEPERMANÊNCIA.
+A súmula n 30 do STJ. veda a acumulação de correçãomonetária pura com comissão
+de permanência.
+Sem prejuízo, também é nula a cláusula que estipula acobrança de comissão de
+permanência edificada sobre indexadorimpuro de correção monetária, cuja
+composição estrutural internacontem componente remuneratório-financeiro que, ao
+fim e ao cabo,configura a incidência de juros nominais sobre juros
+inominadosembutidos, caracterizando espécie de anatocismo no cálculoestrutural
+das obrigações pecuniárias.
+III - REGIME JURÍDICO COMPLEMENTAR DAMATEIRA NOS NEGÓCIOS DE CONSUMO.
+A OCORRÊNCIA DE "MORA ACCIPIENDI" E OSSEUS EFEITOS JURÍDICOS. ÔNUS MORATÓRIOS.
+O ônus da prova da não-abusividade do créditoconstituído e reclamado compete ao
+credor.
+Neste contexto é caracterizada, a "mora accipiendi"isenta o devedor do
+pagamento de obrigação renegada pelo credor,em conseqüência não lhe sendo
+juridicamente imputáveis os ônusobrigacionais moratórios correspondentes,
+dentre os quais os juros"propter moram" e a clausula penal.
+COMPENSAÇÃO JUDICIALIZADA. IMPUTAÇÃO DOPAGAMENTO.
+Independentemente da natureza e escopo da demandade cognição ajuizada, nela
+configurando-se a possibilidade deliquidação, presente ou futura, de débitos
+recíprocos entre oslitigantes, a compensação judicializada  imperativo é
+decorrente doprincipio de economia processual.
+Apelo improvido."
+ 
+Opostos embargos declaratórios pelo agravante, foram os mesmosrejeitados, sendo
+aplicada a multa prevista no art. 538, parágrafo único do CPC,em virtude do
+caráter procrastinatório do recurso.
+Irresignado, interpôs o agravante recurso especial alegando violaçãoaos
+seguintes dispositivos legais:
+I – arts. 3ºe 4º, IX, da Lei 4.595⁄64, no que concerne à limitação dosjuros em
+12% ao ano determinada pelo Tribunal;
+II – arts. 6º, IV, 51, §2ºe 54 da Lei 8.078⁄90, entendendo não seraplicável o
+Código de Defesa do Consumidor aos contratos bancários paradeclaração de
+nulidade de cláusula que estabelece a taxa de juroscompensatórios;
+III – art. 4º, IX, da Lei n. 4.595⁄64, entendendo possível acapitalização
+mensal dos juros;
+IV – art. 11 da Lei n. 8.177⁄91 e Lei n. 9.069⁄95, por entenderaplicável a TR
+como índice de correção monetária;
+V – arts. 4º, IX, 8ºe 9º, da Lei n. 4.595⁄64, e 956, do Código Civil,alegando a
+possibilidade de cobrança de comissão de permanência no caso demora;
+VI – arts. 1.062 e 1.063, do Código Civil, entendendo descabida alimitação dos
+juros moratórios em 1% ao ano;
+VII – art. 2º, § 2º, do Decreto-Lei 911⁄69, por ter o Tribunala quoafastado a
+mora em decorrência de ter o banco agravante estipulado no contratojuros acima
+do patamar de 12% ao ano; e
+VIII – art. 9º, do Decreto 22.626⁄33, devido à redução da multacontratada pelo
+inadimplemento de 10% para 2%, baseada na incidência do art.52, do CDC, texto
+reformado pela Lei n. 9.298⁄96, que entrou em vigor em 1ºdeagosto de 1996, pelo
+fato de que a contratação foi celebrada antes da vigênciadesta lei
+(30.05.1994).
+Colacionou, ainda, arestos para comprovar a divergênciajurisprudencial.
+Inadmitido o recurso especial na origem por incidência das Súmulas282⁄STF e 5,
+7 e 83 deste STJ, foi interposto o presente agravo.
+ 
+Relatado o processo, decide-se.
+ 
+I – Da limitação da taxa de juros (violação aos arts. 3ºe 4º, IX, daLei
+4.595⁄64, 6º, IV, 51, §2ºe 54 da Lei 8.078⁄90 e dissídio jurisprudencial)
+ 
+Relativamente à limitação da taxa de juros, a Lei n. 4.595⁄64preceitua, em seu
+art. 4º, IX, ser da competência do Conselho Monetário Nacionala limitação,
+sempre que necessário, das taxas de juros, descontos, comissões equalquer outra
+forma de remuneração de operações e serviços bancários efinanceiros, inclusive
+os prestados pelo Banco Central do Brasil.
+Com o advento da referida lei, regulando especialmente o SistemaFinanceiro
+Nacional, afastou-se a incidência do Decreto n. 22.626⁄33 no tocante àlimitação
+da taxa de juros a 12% ao ano, conforme dispõe ocaputde seu art. 1º.
+Dessa forma, a limitação imposta pelo referido decreto não se aplicaàs taxas de
+juros cobradas pelas instituições bancárias. As discussões jurídicasacerca do
+tema, já analisadas pelo Excelso Pretório, foram pacificadas econsubstanciaram-
+se no enunciado sumular n. 596 do Supremo Tribunal Federal,que assim dispõe:"As
+disposições do Decreto n. 22.626⁄33 não se aplicam àstaxas de juros e aos
+outros encargos cobrados nas operações realizadas porinstituições públicas ou
+privadas, que integram o sistema financeiro nacional".
+A questão ora em apreço também já foi analisada por esta ColendaCorte.
+Registrem-se, ratificando o entendimento explicitado, os seguintesprecedentes
+jurisprudenciais: REsp 187.281, Rel. Min. Carlos Alberto MenezesDireito, DJ
+07⁄02⁄2000 e REsp n. 228.034, Rel. Min. Aldir Passarinho Júnior, DJ21⁄08⁄2000.
+Divergiu, pois, o aresto acoimado do entendimento desta Corteacerca do tema,
+merecendo provimento o recurso especial.
+Tal qual apontado no aresto colacionado como divergente,tratando-se de operação
+financeira, é lícita a pactuação dos juros acima dos 12%ao ano porquanto existe
+legislação autorizadora. Sendo assim, não há que secogitar da aplicação do art.
+51, do CDC. (REsp 132.986⁄SC, Rel. Min. Sálvio deFigueiredo Teixeira, DJ
+10⁄11⁄1997).
+ 
+II – Da capitalização de juros (art. 4º, IX, da Lei n. 4.595⁄64)
+ 
+Com referência à questão da capitalização dos juros, decidiucorretamente o
+Tribunala quo, em acordo com jurisprudência pacífica deste C.STJ, segundo a
+qual somente é permitida acapitalização mensal do juros quandoprevista em lei.
+De fato, trata-se de prática vedada pelo art. 4.º do Decreto22.626⁄33, mesmo
+que convencionada. Nesse sentido:
+"CONTRATO DE MÚTUO. JUROS. CAPITALIZAÇÃO.(...)
+1. Como já assentado em precedentes da Corte: (...) b)nos contratos de mútuo
+bancário não cabe a capitalização mensaldos juros, só autorizada em hipóteses
+excepcionais previstas em lei.(...)"
+(REsp n. 174849⁄RS, Rel. Min. Carlos Alberto MenezesDireito, Terceira Turma,
+unânime, DJ 16⁄11⁄1999).
+ 
+Nestes termos, o v. acórdão recorrido, ao admitir a capitalizaçãoanual, nos
+termos do art. 4º do Decreto nº. 22.626⁄33, conferiu plena vigência
+aodispositivo legal indicado.
+Aplica-se,in casu, o óbice da Súmula 83 deste STJ.
+ 
+III – Da taxa referencial (art. 11, da Lei n. 8.177⁄91, Lei n. 9.069⁄95,e
+divergência jurisprudencial)
+ 
+Demonstrada a divergência jurisprudencial acerca da questão.
+O v. acórdão recorrido, ao inadmitir a incidência da TR pactuada,confrontou-se
+com a jurisprudência dominante deste C. STJ,verbis:
+"Recurso especial assentado em dissídiojurisprudencial. Contrato de abertura de
+crédito. Limitação da taxa dejuros. Capitalização dos juros. Súmulas nºs 596 e
+121 – STF. (...)
+3. Quando pactuada, é possível a aplicação da TaxaReferencial (TR) na
+atualização do débito, na linha de precedentesdesta Corte.
+(REsp n. 181.042⁄RS, Rel. Min. Carlos Alberto MenezesDireito, Terceira Turma,
+unânime, DJ 22⁄03⁄1999)"
+ 
+Nestes termos, o v. acórdão recorrido merece reforma, pois negouvigência ao
+art. 11 da Lei nº. 8.177⁄91.
+ 
+IV – Da comissão de permanência (arts. 4º, IX, 8ºe 9º, da Lei n.4.595⁄64, e
+956, do Código Civil)
+ 
+O e. Tribunal a quo afastou corretamente a incidência da comissãode
+permanência, por ser vedada a sua cumulação com a correção monetária,
+emconsonância com a Súmula n. 30 e com a jurisprudência dominante deste c. STJ.
+Nesse sentido, registre-se o seguinte julgado:
+"Contrato de abertura de crédito. Comissão depermanência. Correção monetária.
+Precedentes da Corte.
+1. Precedentes da Corte autorizam a cobrança dacomissão de permanência, desde
+que devidamente pactuada e nãocumulada com a correção monetária. (...)"
+(REsp n. 226.752⁄PR, Rel. Min. Carlos Alberto MenezesDireito, Terceira Turma,
+unânime, DJ 27⁄03⁄2000).
+ 
+Uma vez cumulada com acorreção monetária, como ocorrein casu,não é válida
+acomissão de permanência, consoante entendimentoconsubstanciado na Súmula n. 30
+desta Corte, in verbis:"A comissão depermanência e a correção monetária são
+inacumuláveis."
+ 
+V – Da limitação dos juros moratórios, do afastamento da mora eredução da multa
+moratória (arts. 1.062 e 1.063, do Código Civil, 2º, § 2º, doDecreto-Lei 911⁄69
+e 9º, do Decreto 22.626⁄33)
+ 
+As alegadas violações aos dispositivos supra elencados, não foramenfrentadas
+pelo Acórdão recorrido, pelo que falecem do prequestionamentoviabilizador da
+via especial. Incide, no caso, o enunciado da Súmula 211 do STJ:"Inadmissível
+recurso especial quanto à questão que, a despeito da oposição deembargos
+declaratórios, não foi apreciada pelo tribunal a quo".
+ 
+Forte em tais razões, nos termos do art. 544, § 3º do CPC,CONHEÇO do agravo de
+instrumento, para dar PARCIAL PROVIMENTO aorecurso especial, afastando-se a
+limitação dos juros remuneratórios em 12% aoano e admitindo-se a incidência da
+taxa referencial.
+ 
+Sucumbência recíproca.
+Publique-se. Intimem-se.
+Brasília, 14 de setembro de 2001.
+ 
+ 
+                            MINISTRA Nancy Andrighi
+                                   Relatora
+
+Documento: 144529 Despacho / DecisÃ£- DJ: 28/09/2001

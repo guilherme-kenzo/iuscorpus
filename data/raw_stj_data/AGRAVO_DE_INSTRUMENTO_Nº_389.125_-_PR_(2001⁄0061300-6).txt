@@ -1,0 +1,109 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DE INSTRUMENTO Nº 389.125 - PR (2001⁄0061300-6)
+               RELATOR   : MINISTRO RUY ROSADO DE AGUIAR
+               AGRAVANTE : ERICSSON E ERICSSON LTDA
+               ADVOGADO  : AFONSO PROENCO BRANCO FILHO E OUTROS
+               AGRAVADO  : BANCO DO ESTADO DO PARANÁ S⁄A
+               ADVOGADO  : AIRTON MARTINS MOLINA E OUTROS
+ 
+                                    DECISÃO
+ 
+Vistos, etc.
+Ericsson e Ericsson Ltda. agravou de decisão denegatória de recursoespecial,
+alíneasaec, interposto contra acórdão da eg. Sétima Câmara Cível doTribunal de
+Alçada do Paraná, no qual alega afronta aos arts. 130 e 301, X, doCPC, além de
+divergência jurisprudencial.
+O acórdão possui a seguinte ementa:
+ 
+"Apelação Cível. Embargos do devedor. Termo deconfissão de dívida. Cerceamento
+de defesa. Inocorrência. Novação.Impossibilidade de discussão dos contratos
+anteriores.Desnecessidade de juntada dos extratos. Pressupostos
+processuaispresentes. Carência afastada. Capitalização de juros.
+Ocorrência.Exclusão. TBF. Taxa Básica Financeira. Impossibilidade de
+utilizaçãocomo fator de correção monetária. Modificação do entendimento poresta
+Câmara. Recurso parcialmente provido. Sucumbência recíproca"(fl. 102).
+ 
+A eg. Câmara afirmou que houve novação da dívida e que osdocumentos juntados
+aos autos eram suficientes para o esclarecimento do objetoda lide,
+justificando-se, assim, o julgamento antecipado. Segundo a recorrente,
+noentanto, necessária seria a produção de prova pericial, sem a qual
+caracterizou-severdadeiro cerceamento de defesa.
+Inviável se apresenta o exame dessa questão, pois, para se constatarse houve
+eventual julgamento prematuro da ação necessário seria o reexame doconjunto
+probatório, o que não se admite em sede de recurso especial, à luz daSúmula
+07⁄STJ, a menos que na fundamentação da questão tivesse havidodemonstração de
+ofensa a norma ou princípio probatórios, o que,in casu, nãoaconteceu.
+Assim tem sido o posicionamento desta eg. Corte,in verbis: "Ajurisprudência
+desta Corte é no sentido de que a alegação de cerceamento dedefesa em virtude
+de julgamento antecipado da lide esbarra no óbice do enunciado07 da Súmula
+destes Tribunal. Isso porque o STJ precisaria reexaminar ascircunstâncias
+fáticas e o conjunto probatório constante dos autos para concluir quea produção
+de outras provas, além das já carreadas aos autos, é imprescindívelpara o
+escorreito julgamento da demanda, ao contrário do que ficou assentado deforma
+uníssona nas instâncias ordinárias. Precedentes do STJ: REsp 39.623⁄RJ –EDCL,
+AG 77.182⁄SP – AGRG, REsp 9.698⁄SP, AG 14.952⁄DF – AGRG e REsp8.965⁄SP. " (REsp
+7699⁄SP, 2ª Turma, rel. em. Min. Adhemar Maciel, DJ 17.02.97).Confira-se,
+também, o REsp 8965⁄SP, 4ª Turma, rel. o em. Min. Athos Carneiro, DJ03.02.92.
+Alega que o banco é carecedor da ação de execução, pois nãodemonstrou a origem
+da dívida e seus acréscimos legais e, ainda, porque faltaria aodocumento "o
+reconhecimento de assinaturas ali consignadas, especialmente docreditado o que
+o torna documento inidôneo, não gerando liquidez, certeza eexigibilidade" (fl.
+147). Por fim, sustenta que, se o contrato de abertura de créditoem conta
+corrente não possui executividade, também não poderá embasar a açãoexecutiva o
+termo de confissão de dívida dele decorrente.
+Não tem razão, no entanto. Conforme assinalado no v. arestorecorrido, as partes
+constituíram nova obrigação, consubstanciada no instrumentode confissão de
+dívida, no qual o devedor assume valor certo e originário da dívida,por ele
+reconhecido, constituindo um novo título executivo. A questão relativa à
+faltade "reconhecimento das assinaturas" não foi prequestionada, não obstante
+aoposição dos embargos declaratórios (Súmula 211⁄STJ).
+Observo ainda que o entendimento das Turmas da  Segunda Seçãodeste STJ é no
+sentido de que o contrato de renegociação de dívida, não obstanteoriginário de
+contratos de abertura de crédito em conta corrente, ao qual não sereconhece
+executividade, apresenta, em princípio, os requisitos necessários
+parafundamentar a pretensão executiva. Confira-se:
+ 
+"Execução. Título executivo. Termos de renegociação dedívida. O termo de
+renegociação de dívida constituída em razão decontrato de abertura de crédito
+não está imune ao exame dos critériosadotados para a formação do débito nele
+expresso, mas tem ascaracterísticas de título executivo, ensejando processo de
+execuçãocabendo ao devedor defender-se através de embargos. Recursoconhecido e
+provido em parte." (REsp 216.042⁄RS, 4ª Turma, deminha relatoria, DJ
+14.02.2000);
+ 
+"Contrato de abertura de crédito. Aditivo. Juros.Precedentes da Corte. 1. Não
+se aplica a jurisprudência consolidadada Corte sobre a não existência de título
+executivo quando a execuçãoestá apoiada no contrato de abertura de crédito,
+mesmo acompanhadade extratos bancários, sendo o título um novo pacto de
+pagamento,com valor certo, reconhecido pelo próprio devedor e não
+elaboradounilateralmente pelo credor. (...)." (REsp 214.003⁄SC, 3ª Turma,
+rel.em. Min. Carlos Alberto Menezes Direito, DJ 05.06.2000);
+ 
+"Processual Civil. Contrato de renegociação de dívida.Execução. Título hábil.
+CPC, art. 585, II. I- O contrato de renegociaçãode dívida, ainda que oriundo de
+contrato de abertura de crédito,constitui, em princípio, título hábil a
+autorizar a cobrança pela viaexecutiva, facultado ao devedor, não obstante,
+discutir sobre oscritérios adotados para a constituição do valor exigido, ainda
+queremontem ao instrumento originário" (REsp 299.743⁄RS, 4ª Turma, rel.em. Min.
+Aldir Passarinho Júnior, DJ 30.04.2001).
+ 
+A questão relativa à nulidade do contrato, porque teria sido assinadoem branco,
+não veio fundamentada em quaisquer das alíneas do permissivoconstitucional
+(Súmula 284⁄STF). Ademais, demandaria apreciação de matériafática, ensejando o
+óbice da Súmula 07⁄STJ.
+O dissídio jurisprudencial não restou demonstrado, pois não cumpridasas
+exigências regimentais, e porque divergentes as circunstâncias entre os
+julgadosconfrontados, uma vez que os acórdãos paradigmas cuidam,
+especificamente, decontrato de abertura de crédito.
+Isso posto, nego provimento ao agravo.
+Intimem-se. Publique-se.
+Brasília (DF), 20 de setembro  de 2001.
+ 
+ 
+                         Ministro Ruy Rosado de Aguiar
+                                    Relator
+
+Documento: 125840 Despacho / DecisÃ£- DJ: 03/10/2001

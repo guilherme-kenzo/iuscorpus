@@ -1,0 +1,120 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DE INSTRUMENTO Nº 325221 - MG (2000⁄0080920-9)
+ 
+             RELATOR   : MINISTRO FRANCIULLI NETTO
+             AGRAVANTE : FAZENDA PUBLICA DO ESTADO DE MINAS GERAIS
+             ADVOGADO  : CELSO DE OLIVEIRA FERREIRA E OUTROS
+             AGRAVADO  : EXPRESSO RAPIDO BRASIL LTDA
+                                    DECISÃO
+Vistos.
+Cuida-se de agravo de instrumento interposto contra decisão que negouseguimento
+a recurso especial fulcrado no artigo 105, inciso III, alíneas "a" e "c",da
+Constituição Federal, em autos de execução fiscal, contra o indeferimento
+dopedido de requisição de informações requisitadas à Receita Federal.
+O v. Tribunal a quo proferiu acórdão cuja ementa guarda o seguinte teor:
+ 
+"Execução Fiscal – Requisição de quebra de sigilo bancário –Possibilidade
+condicionada ao esgotamento de diligências peloexeqüente – Condição não
+comprovada – Pedido improcedente. Emtese, é possível a quebra de sigilo
+bancário de executado, desde quecomprovadas todas as diligências empenhadas
+pelo exeqüente,demonstrando ausência de outros bens passíveis de penhora –
+Aausência de tal condição impede o deferimento do pedido –Despacho mantido."
+(fl. 23).
+ 
+Em recurso especial, a ora agravante alegou violação aos artigos 399 e600, do
+Código de Processo Civil; e 198, do Código Tributário Nacional.
+A pretensão recursal formulada não logra perspectiva de êxito.
+A requisição judicial, em matéria deste jaez, apenas se justifica desde quehaja
+intransponível barreira para a obtenção dos dados solicitados por meio da
+viaextrajudicial, o que se  não deu na espécie, ou, pelo menos, não foi
+demonstrado.
+Além do mais, o sigilo bancário está expressamente resguardado por lei(cf. art.
+38 da Lei nº 4.595, de 31.12.64). A quebra do sigilo é medida excepcional,que
+depende da presença de relevantes motivos, não devidamente especificados,a que
+se adita dispor a Fazenda de seu próprio cadastro de contribuintes.
+Por outro lado, a inviolabilidade dos dados individuais está acobertadapelo
+inciso XII do artigo 5º, da CF em vigor. Encontra-se a matéria bemdesenvolvida
+por Luciana Fregadolli, como se extrai da transcrição abaixo:
+ 
+"Nos dias atuais, diversos são os sistemas quearmazenam dados pessoais
+utilizando-se decomputadores, tais como serviços de proteção ao crédito,bancos,
+Receita Federal etc.
+Além disso, com a propagação dosmicrocomputadores, diversas empresas acabam
+porcadastrar dados pessoais de seus clientes."
+Por isso, Hermano Duval adverte que:
+'...em todas essas situações entre as empresasacumuladoras de dados
+(informática) e o usuário a elasfichado, a manipulação inescrupulosa do
+grandecomputador pode ensejar, sem dúvida, a consumação daviolação da vida
+privada do indivíduo, ou de seu direito àintimidade, já na iminência de ser
+reduzido a um número(o do CPF, o da conta-corrente bancária etc.)'.
+Pelo intercâmbio humano em sociedade, temosum conjunto de situações que,
+usualmente, sãoinformadas sem constrangimento. Tais como o nome,endereço,
+profissão, idade, estado civil, filiação etc. Aproteção desses dados em si,
+pelo sigilo, não faz sentido.
+Como leciona Tércio Sampaio Ferraz Jr.,
+'...os elementos de identificação só são protegidos quandocompõem relações de
+convivência privativas: a proteção é para elas,não para eles.
+...cadastros que envolvam relações de convivência privadas(por exemplo, nas
+relações de clientela, desde quando é cliente, se arelação foi interrompida, as
+razões pelas quais isto ocorreu, quais osinteresses peculiares do cliente, sua
+capacidade de satisfazeraqueles interesses etc.) estão sob proteção. Afinal, o
+risco àintegridade moral do sujeito, objeto do direito à privacidade, não
+estáno nome, mas na exploração do nome, não está nos elementos deidentificação
+que condicionam as relações privadas, mas naapropriação dessas relações por
+terceiros a quem elas não dizemrespeito'.
+O art. 12 da Lei Complementar 70⁄91 determina que asinstituições financeiras e
+outras empresas forneçam à ReceitaFederal, independentemente de processo
+instaurado, informaçõescadastrais sobre o contribuinte-usuário dos respectivos
+serviçosrelativos ao nome, à filiação, ao endereço e ao número de inscriçãodo
+cliente no Cadastro de Pessoas Físicas (CPF) ou Cadastro Geralde Contribuintes
+(CGC). A doutrina e a jurisprudência têmreconhecido que informações cadastrais,
+meros dados pessoais ecomerciais, não são considerados objeto de sigilo.
+Ivette Senise Ferreira observa que:
+'...a referência inovadora que o preceito constitucional faz àinviolabilidade
+dos dados vem atender aos reclamos da proteção daintimidade contra a sua
+violação também pelos processos técnicosda informática, que pode propiciar a
+devassa da vida privada atravésda manipulação indiscriminada de informações
+pessoais,especialmente aquelas consideradas confidenciais, armazenadasnos
+arquivos públicos e privados, tais como os pertencentes aBancos, Centrais de
+Proteção ao Crédito, Receita Federal e outrosórgãos de informação'.
+Para Antônio Vital Ramos de Vasconcelos, o inc. XII, do art.5o, torna
+invioláveis as informações contidas nos bancos de dados,que somente podem ser
+obtidas por força de ordem judicial, para osfins indicados na Constituição e na
+forma da lei que ainda não foieditada. Por conseguinte, toda a legislação
+passada que tratava detal requisição para o processo civil não foi recepcionada
+pela atualConstituição"(cf. "O Direito à Intimidade",in"Cadernos de
+DireitoConstitucional e Ciência Política", Ed. RT, ano 5, n. 19, ps. 238⁄239).
+ 
+Por aí se vê, que a Fazenda do Estado tinha meios de obter os dados deque
+necessita, extrajudicialmente. Não possuindo o Banco Central o cadastro detodos
+os bancos do país, não faz sentido a ele transferir providências de interesseda
+exeqüente, o que, além do mais, acarretaria infindáveis trâmites
+burocráticos,porquanto o Banco Central teria que oficiar a todos os
+estabelecimentosbancários, aguardar as respostas e retransmiti-las ao Juízo.
+Vem à balha o pronunciamento do Ilustre Ministro Demócrito Reinaldo,
+nojulgamento do RESP nº 37.566-7-RS,inDJ de 28.03.94, ao firmar que"a
+exegeseintegrada do artigo 197, II e § 1º do CTN, concede à autoridade fiscal o
+poder desolicitar as informações que repute necessária à instrução ou apuração
+de débitoTributário, desde que as mesmas não se abriguem sob o manto inviolável
+do sigilobancário".
+Noutras palavras: devem as instituições financeiras atender à solicitaçãode
+informações encaminhada pelo Fisco, cumprindo-lhe, porém, negar-se afornecer
+qualquer espécie de notícia ou documentação pertinente à movimentaçãoativa e
+passiva do correntista⁄contribuinte, bem como dos serviços a ele prestados
+(artigo 38,caput, da Lei nº 4.595⁄64).
+Ressalte-se, por conseguinte, que não é atribuição do Poder Judiciáriopromover
+diligências que, precipuamente, cabem às partes litigantes.
+Verifica-se, pois, que nada estava a justificar a intervenção judicial.
+Posto isso, com arrimo nos arts. 544, § 2º, do Código de Processo Civil, e34,
+VII, do RISTJ, nego provimento ao agravo.
+P. e I.
+Brasília (DF), 26 de março de 2001.
+ 
+ 
+                           Ministro FRANCIULLI NETTO
+                                    Relator
+
+Documento: 28057 Despacho / DecisÃ£- DJ: 14/05/2001

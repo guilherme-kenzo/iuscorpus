@@ -1,0 +1,124 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRG NO RECURSO ESPECIAL Nº 225.168 - RJ (1999⁄0068358-7)
+  RELATORA  : MINISTRA ELIANA CALMON
+  AGRAVANTE : BANCO ABN AMRO S⁄A - SUCESSOR PORINCORPORAÇAO DO BANCO REAL S⁄A
+  ADVOGADO  : NELSON MONTEIRO DE CARVALHO NETO
+  AGRAVADO  : SUELY MARQUES MONTEIRO
+  ADVOGADO  : HELOISA RODRIGUES
+                                    DECISÃO
+CRUZADOS NOVOS BLOQUEADOS – ATIVOSRETIDOS –MP 168⁄90 – LEI 8.024⁄90 –
+LEGITIMIDADE PASSIVA - BANCO CENTRAL - INSTITUIÇÕES FINANCEIRAS DEPOSITÁRIAS–
+RECURSO PROVIDO (ART. 557, § 1º-A DO CPC).
+ 
+Trata-se de agravo contra a decisão de fls. 202⁄203, pela qual o entãorelator
+deste processo, o Sr. Ministro Paulo Gallotti, negou seguimento ao
+recursoespecial, na forma do art. 557,caput, do CPC, ao concluir que o Banco
+recorrenteestaria passivamente legitimado para a causa, por se tratar de
+correção monetáriado mês de março⁄90.
+Apoiando-se na jurisprudência desta Corte, o agravante insiste em
+suailegitimidade passiva, ressaltando que a correção propugnada diz respeito
+aperíodos em que os valores correspondentes já haviam sido transferidos para
+oBACEN.
+ 
+DECIDO:
+ 
+Examinando a questão da legitimidade passiva para as causasrelativas a cruzados
+novos bloqueados, no julgamento do EREsp 167.544⁄PE,relatado pelo Sr. Min.
+Eduardo Ribeiro, a Corte Especial deste Superior Tribunal deJustiça consagrou a
+tese de que responderá pela correção monetária quem detiveros recursos no
+momento em que aquela deva ser feita, não se considerando operíodo de apuração
+do índice a ser aplicado.
+Então, deve-se considerar que, nas ações nas quais se busca acorreção monetária
+dos saldos das contas de poupança, cabe a legitimidadepassiva tão-somente à
+entidade que tem a disponibilidade sobre os mesmos, ouseja, oBANCO
+CENTRALresponderá apenas pela correção monetária após atransferência dos saldos
+em cruzados novos não convertidos em cruzeiros, e asinstituições financeiras
+depositárias enquanto não efetivada a mencionadatransferência, na forma do art.
+9º da Lei 8.024⁄90.
+Cabe salientar que o bloqueio não se confunde com a transferência devalores.
+Para melhor compreensão da matéria, é oportuna a transcrição dealguns
+dispositivos legais:
+                                 Lei_8.024⁄90
+                    (conversão da Medida Provisória 168⁄90)
+ 
+Art. 1º. Passa a denominar-se cruzeiro a moeda nacional,configurando a unidade
+do sistema monetário brasileiro.
+§ 1º. omissis
+§2º O cruzeiro corresponde a um cruzado novo.
+§3º. omissis
+ 
+Art. 6º. Os saldos das cadernetas de poupança serãoconvertidosem cruzeirosna
+data_do_próximo_crédito_de_rendimento,segundo a paridade estabelecida no §2º do
+art. 1º, observado o limitede NCz$ 50.000,00(cinqüenta mil cruzados novos).
+§ 1º. As quantias que excederem o limite fixado no"caput" deste artigo, serão
+convertidas a partir de 16 de setembro de1991, em doze parcelas mensais iguais
+e sucessivas.
+§ 2º. As quantias mencionadas no parágrafo anteriorserão atualizadas
+monetariamente pela variação do BTN Fiscal,verificada_entre_a_data_do_próximo
+crédito_de_rendimentos_e_a_data_daconversão, acrescidas de juros equivalente a
+6% (seis por cento) aoano ou fração "pro rata".
+§ 3º. omissis
+ 
+Art. 9º.Serão_transferidos_ao_Banco_Central_do_Brasil_ossaldos_em_cruzados
+novos_não_convertidosna forma dos arts. 5º,6ºe7º, que serão mantidos em contas
+individualizadas em nome dainstituição financeira depositante.
+§ 1º. omissis
+§2º. omissis
+§3º. omissis.
+ 
+Da leitura dos artigos transcritos verifica-se que:
+a) conversão é o fenômeno da transformação de cruzados novos emcruzeiros;
+b) os valores não superiores a NCz$ 50.000, 00 (cinqüenta milcruzados novos)
+depositados em cadernetas de poupança, foram convertidos nadata do próximo
+crédito de rendimento;
+c) os valores superiores a NCz$ 50.000, 00 (cinqüenta mil cruzadosnovos) foram
+convertidos a partir de 16⁄09⁄91, em doze parcelas iguais esucessivas; e
+d) o art. 9º da citada lei determinou que seriam transferidos aoBANCOCENTRALos
+saldos em cruzados novos não convertidos.
+ 
+Portanto, muito embora tenham sido bloqueados os cruzados novossuperiores a
+NCz$50.000,00 pela MP 168⁄90, em 16⁄03⁄90, a transferência para oBANCO
+CENTRALsó ocorreu a partir da próxima data de creditamento,popularmente chamada
+data de aniversário ou data de vencimento de cada conta.
+Diferentemente, os valores depositados em conta corrente foramtransferidos
+imediatamente, tanto que o art. 5º, § 2º da Lei 8.024⁄90 determinou aaplicação
+doBTNFa partir de 19⁄03⁄90.
+A transferência coincide com a conversão dos valores não superiores aNCz$
+50.000,00  que, no caso das cadernetas de poupança, ocorreu na próximadata de
+creditamento e no caso das contas-correntes concomitante ao bloqueio.
+Bem delimitada a matéria, dessume-se que respondem as instituiçõesfinanceiras
+depositárias, em relação ao mês de março⁄90, pela correção monetáriade todos os
+depósitos em cadernetas de poupança e, quanto ao mês de abril⁄90,somente por
+aquelas, cujas datas de aniversário são anteriores ao bloqueio doscruzados
+novos.
+OBANCO CENTRAL,por sua vez, deve figurar como responsávelpela correção
+monetária dos cruzados novos bloqueados que lhe foram transferidos.No caso das
+contas-correntes, já a partir de março⁄90, quando houve o bloqueio e
+atransferência e, no caso das cadernetas de poupança, somente a partir de
+abril⁄90,no que diz respeito àquelas que têm data de aniversário na segunda
+quinzena decada mês.
+A Primeira Seção desta Corte uniformizou o entendimento sobre otema, no
+julgamento do REsp 124.864⁄PR, DJ de 28⁄09⁄98, e nos EREsp211.733⁄PR, julgado
+em 14⁄12⁄2000.
+Na presente hipótese, como a pretensão diz respeito aos expurgosrelativos ao
+IPC de março⁄90 (84,32%), a ser aplicado no mês de abril⁄90, e se tratade
+conta-corrente e cadernetas de poupança com datas de aniversário na
+segundaquinzena de cada mês, a legitimidade passiva é, unicamente, do Banco
+Central,assistindo razão ao agravante, quando se bate pelo reconhecimento de
+suailegitimidade passivaad causam.
+Assim, em juízo de retratação, revogo a decisão de fls. 202⁄203 e,verificando
+que e tendo o Tribunala quo,no ponto objeto de insurgência, seposicionou de
+forma contrária à jurisprudência pacífica desta corte,DOUPROVIMENTO AO RECURSO
+ESPECIAL,nos termos do art. 557, § 1º-A do CPC,reconhecendo que apenas o Banco
+Central do Brasil está passivamente legitimadopara a causa, e apenas contra ele
+é que o feito haverá de prosseguir.
+Brasília (DF), 31 de maio de 2001.
+ 
+ 
+                            MINISTRA ELIANA CALMON 
+                                   Relatora
+
+Documento: 63405 Despacho / DecisÃ£- DJ: 26/06/2001

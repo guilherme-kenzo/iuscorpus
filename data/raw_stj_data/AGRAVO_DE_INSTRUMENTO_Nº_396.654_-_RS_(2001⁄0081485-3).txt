@@ -1,0 +1,136 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DE INSTRUMENTO Nº 396.654 - RS (2001⁄0081485-3)
+           RELATOR   : MINISTRO ANTÔNIO DE PÁDUA RIBEIRO
+           AGRAVANTE : BRADESCO ADMINISTRADORA DE CARTÕES DE CRÉDITO
+           ADVOGADO  : CLAYTON MOLLER E OUTROS
+           AGRAVADO  : MARIA CONCEIÇÃO GOMES LOPES
+           ADVOGADO  : JOÃO SEVERINO DE VILLA E OUTRO
+                                    EMENTA
+Recurso especial. Ação revisional. Cartão de crédito. Juros.Limite. Código de
+Defesa do Consumidor. TR.
+I - É facultado às instituições financeiras contratar juros a taxassuperiores a
+12% a.a. Súmula 596⁄STF
+II - As instituições financeiras estão sujeitas ao Código deDefesa do
+Consumidor. Precedentes.
+III - Ausência de comprovação da pactuação da TR.
+IV -  Agravo de instrumento conhecido para dar-se parcialprovimento ao recurso
+especial.
+                                    DECISÃO
+Trata-se de agravo de instrumento interposto contra decisão que negouseguimento
+a recurso especial fundado nas letras "a" e "c" do permissivoconstitucional, em
+que se questiona acórdão proferido pela Eg. Décima Nona CâmaraCível do Tribunal
+de Justiça do Rio Grande do Sul, que decidiu: a) incidência doCódigo do
+Consumidor aos contratos entabulados entre administradora de cartão decrédito e
+particular; b) limitação dos juros em 12% ao ano; c) não incidência da TRcomo
+fator de correção do débito.
+Alega a recorrente ofensa aos artigos 267, VI do Código de ProcessoCivil; 999,
+I do Código Civil; 3º e 4º, IX da Lei 4.595⁄64 e 11 da Lei 8.177⁄91, bemcomo
+dissídio jurisprudencial com a Súmula 596⁄STF e com julgados que colaciona.
+Assinale-se, de início, a ausência de preqüestionamento dosmencionados
+dispositivos legais dos códigos de Processo Civil e Civil, que nãoserviram de
+fundamento à conclusão adotada pelo tribunal local, não tendo sidoopostos
+embargos declaratórios com o objetivo de sanar eventual omissão. Incide nocaso,
+portanto, o disposto nas Súmulas 282 e 356 do STF.
+Com relação à utilização da TR como fator de correção do débito, decidiuo
+aresto recorrido por seu afastamento porquanto não comprovada sua
+contratação.Rever este entendimento demandaria análise de cláusulas
+contratuais, o que é vedadopelo disposto na Súmula 05⁄STJ.
+Quanto a não ser a Lei 8.078⁄90 aplicável às instituições financeiras,
+nãoassiste razão à recorrente, estando o acórdão recorrido em consonância com
+ajurisprudência firmada nesta Corte, como atestam os seguintes julgados:
+ 
+"AGRAVO NO AGRAVO DE INSTRUMENTO – CONTRATODE ABERTURA DE CRÉDITO –
+APLICABILIDADE DO CDC –COMISSÃO DE PERMANÊNCIA – INACUMULABILIDADE COM
+JUROSMORATÓRIOS E MULTA CONTRATUAL – SÚMULA 83 DESTA CORTE.
+I – Pela interpretação do art. 3.º, § 2.º, do CDC, é de sededuzir que as
+instituições bancárias estão elencadas no rol das pessoasde direito
+consideradas como fornecedoras, para fim de aplicação doCódigo de Defesa do
+Consumidor às relações entre essas e osconsumidores, no caso, correntistas.
+II – Tratando-se de contrato firmado entre as instituiçãofinanceira e pessoa
+física, é de concluir que o agravado agiu com vistasao atendimento de uma
+necessidade própria, isto é, atuou comodestinatária final. Aplicável, pois, o
+CDC.
+(...)"(AGA 296.516⁄SP, DJ de 05⁄02⁄2001, rel. Min. NancyAndrighi, 3a. T.).
+ 
+"CÓDIGO DE DEFESA DO CONSUMIDOR. BANCOS.CONTRATO DE ADESÃO. RELAÇÃO DE CONSUMO
+(ART. 51, DA LEI8078⁄90) – FORO DE ELEIÇÃO. CLÁUSULA CONSIDERADA ABUSIVA–
+INAPLICABILIDADE DA SÚMULA 33⁄STJ – PRECEDENTES DASEGUNDA SEÇÃO.
+I – Os bancos, como prestadores de serviços especialmentecontemplados no art.
+3.º, § 2.º, estão submetidos às disposições doCódigo de Defesa do Consumidor. A
+circunstância de o usuário dispor dobem recebido através de operação bancária,
+transferindo-a a terceiros,em pagamento de outros bens ou serviços, não o
+descaracteriza comoconsumidor final dos serviços prestados pela instituição.
+(...)"(REsp 190.860⁄MG, DJ de 09⁄11⁄2000, rel. Min. WaldemarZveiter, 3a. T.)
+ 
+"CONTRATO DE FINANCIAMENTO BANCÁRIO. NULIDADEDE CLÁUSULAS. APLICAÇÃO DO CÓDIGO
+DE DEFESA DOCONSUMIDOR. DISCIPLINA LEGAL DIVERSA QUANTO À TAXA DEJUROS
+REMUNERATÓRIOS.
+Tratando-se de empréstimo tomado por consumidor final, aoperação creditícia
+realizada pelo banco submete-se às disposições doCódigo de Defesa do
+Consumidor, na qualidade de prestador de serviçosespecialmente contemplado no
+art. 3.º, § 2.º, do citado diploma legal.
+(...)"(REsp 213.825⁄RS, DJ de 22⁄08⁄2000, rel. Min. BarrosMonteiro, 4a. T.).
+ 
+"JUROS. LIMITE. SUM. 596⁄STF. APLICAÇÃO, DE ACORDOCOM PRECEDENTES DESTE
+TRIBUNAL. AS INSTITUIÇÕESFINANCEIRAS ESTÃO SUJEITAS AO CDC. RECURSO CONHECIDOEM
+PARTE E PROVIDO. (REsp 163.616⁄RS, DJ de 03⁄08⁄1998, rel. Min.Ruy Rosado de
+Aguiar, 4a. T.)
+ 
+Melhor sorte, porém, socorre a recorrente no tocante à questão dalimitação dos
+juros.
+Com efeito, ressalvando meu ponto de vista quanto à impossibilidade
+dasadministradoras de cartão de crédito usarem da autorização constante do
+termo deadesão para contratarem em nome do cliente juros acima da taxa legal,
+curvo-me àremansosa jurisprudência de ambas as Turmas de direito privado deste
+Tribunal, nosentido de não aplicar a limitação de juros aos contratos de cartão
+de crédito. Nessesentido, os precedentes a seguir:
+"COMERCIAL. CARTÃO DE CRÉDITO. JUROS.LIMITAÇÃO (12% AA). LEI DE USURA (DECRETO
+N. 22.626⁄33). NÃOINCIDÊNCIA. APLICAÇÃO DA LEI N. 4.595⁄64.
+DISCIPLINAMENTOLEGISLATIVO POSTERIOR. SÚMULA N. 596-STF.
+I. Não se aplica a limitação de juros de 12% ao ano previstana Lei de Usura aos
+contratos de cartão de crédito.
+II. Recurso especial conhecido e provido" (Resp.297.500⁄RS, rel. Min. Aldir
+Passarinho Júnior, 4ª Turma, in DJ de30⁄4⁄2001).
+ 
+"Direito bancário. Agravo de instrumento. Contrato de cartãode crédito. Juros
+remuneratórios. Capitalização mensal dos juros.
+- Não se aplicam as disposições do Decreto nº 22.626⁄33quanto à taxa dos juros
+remuneratórios aos contratos de cartão decrédito.
+- Não havendo norma que permita a capitalização mensaldos juros nos contratos
+de cartão de crédito, é de se julgar abusiva acláusula que a prevê" (AG
+393.024⁄RS, rel. Min. Nancy Andrighi, 3ªTurma, in DJ de 28⁄8⁄2001).
+ 
+"CARTÃO DE CRÉDITO. Juros. Limitação Aplicação dasúmula 596⁄STF. Vencido nessa
+parte o relator. Recurso conhecidoparcialmente e provido."(Resp. 276.003⁄SE,
+rel. Min. Ruy Rosado deAguiar, 4ª Turma,inDJ de 11⁄6⁄2001).
+ 
+"CONTRATO DE CARTÃO DE CRÉDITO. JUROS.LIMITAÇÃO. CAPITALIZAÇÃO.
+1. Cuidando-se de operações realizadas por instituiçãointegrante do sistema
+financeiro nacional, não se aplicam as disposiçõesdo Decreto nº 22.626⁄33
+quanto à taxa de juros. Súmula 596⁄STF."(Resp202.373⁄RJ, rel. Min. Barros
+Monteiro, 4ª Turma,inDJ de 23⁄8⁄1999).
+ 
+"Recurso especial. Ação revisional. Cartão de crédito. Juros.Limite.
+Capitalização.
+I - É facultado às instituições financeiras contratar juros a taxassuperiores a
+12% a.a. Súmula 596⁄STF
+II - É vedada a capitalização mensal dos juros, ainda quepactuada, salvo as
+expressas exceções legais. Incidência do art. 4º doDecreto n. 22.626⁄33 e da
+Súmula n. 121-STF
+III -  Recurso especial parcialmente provido."(AG 389.292⁄RS,de minha
+relatoria,inDJ de 09⁄8⁄2001).
+ 
+Ante o exposto, com apoio no artigo 544, § 3.º, do CPC, com a redaçãoda Lei nº
+9.756⁄98, conheço do agravo para dar parcial provimento ao recursoespecial, a
+fim de afastar a limitação, em 12% a.a., dos juros remuneratórios.
+Verbas de sucumbência em proporção.
+Publique-se e intimem-se.
+Brasília, 27 de novembro de 2001.
+ 
+ 
+                       Ministro Antônio de Pádua Ribeiro
+
+Documento: 134548 Despacho / DecisÃ£- DJ: 06/02/2002

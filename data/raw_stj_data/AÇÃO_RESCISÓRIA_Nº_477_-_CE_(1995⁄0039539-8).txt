@@ -1,0 +1,192 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AÇÃO RESCISÓRIA Nº 477 - CE (1995⁄0039539-8)
+         RELATOR  : MINISTRO EDSON VIDIGAL
+         REVISOR  : MINISTRO FONTES DE ALENCAR
+         AUTOR    : UNIAO
+         REU      : ELISEU FERREIRA LIMA
+         REU      : EDIMAR FERREIRA DE ALCANTARA
+         REU      : RITA DE CASSIA SAMPAIO CORREIA
+         REU      : EXPEDITA ALVES DE ALBUQUERQUE
+         REU      : NILDETE BEZERRA SILVA
+         REU      : IDA DE QUEIROZ GOES
+         REU      : JURACI GONZAGA ARRUDA FERREIRA
+         REU      : HELENA VIDAL DE PAULA LIMA
+         REU      : JANIO ALCANTARA DE OLIVEIRA
+         REU      : FRANCISCO DE ASSIS MARINHO FILHO
+         REU      : FRANCISCO DE ASSIS ARAUJO
+         REU      : MARIA ACELMA RODRIGUES DE SA
+         REU      : ODENILDO BARBOSA FERREIRA
+         REU      : FRANCISCO OLIVEIRA MELO
+         REU      : VICENCIA FERREIRA DA CRUZ
+         REU      : ZILA MARIA FELISMINO TAVARES
+         REU      : MARIA VANDA AMARAL MADEIRA BARROS
+         REU      : MARLISE BARQUIL BRITO VERCOSA
+         REU      : MYRIAN DO SOCORRO NUNES GUIMARAES
+         REU      : EDVAR ALENCAR TAVARES
+         REU      : MARIA APARECIDA DIAS SILVA
+         REU      : ELIANE MARIA MEMORIA MACHADO
+         REU      : MARIA ODILIA BARBOSA BENEVIDES
+         REU      : ANA FREIRE DELMONT
+         REU      : APARECIDA ROCHA GOES
+         REU      : PEDRO FERREIRA DA SILVA IRMAO
+         REU      : CARMEM MARIA SILVA NASCIMENTO
+         REU      : ANA MARIA MONTEIRO FALCAO
+         REU      : HELOISA HELENA CORREIA ALMEIDA
+         REU      : SARAH BASTOS DE OLIVEIRA LESSA
+         REU      : MARIA GORETTI DE LIMA ROBERTO
+         REU      : DAVID DA SILVA VALENTIM
+         REU      : JOSELUCIA GOMES DE ALENCAR
+         REU      : SILVIA HELENA CAVALCANTE DE MOURA
+         REU      : ELIENE FERNANDES E SILVA
+         REU      : ANTONIO LIMA OLIVEIRA
+         REU      : ANTONIO ARLEDO DA COSTA
+         REU      : MARIA ARLENE COSTA MOSCA DE CARVALHO
+         REU      : ALCEU DE CASTRO GALVAO
+         REU      : RAIMUNDO VANDERLEY HOLANDA GUEDES
+         REU      : MARIA LADY BEZERRA
+         REU      : MAGNOLIA BESERRA DE ANDRADE KICKNGER
+         REU      : ZELIA MARIA SALES ROCHA CABRAL
+         REU      : FRANCISCO BATISTA DE LIMA
+         REU      : ANISIO DE SOUSA MENESES FILHO
+         REU      : ANTONIO PINTO DE MENDONCA
+         REU      : MARIA DO SOCORRO FEITOSA ALMEIDA
+         REU      : SAMUEL LIMA DE QUEIROZ
+         REU      : LUCIA MARIA DA SILVA NASCIMENTO
+         REU      : MARIA JOSE FALCAO
+         REU      : FRANCISCA MEDRADO DE SOUSA
+         REU      : MARIA DE FATIMA MULATO
+         REU      : LUCIA DE FATIMA MOREIRA MARQUES
+         REU      : MARIA DA SALETE SILVA DE ARAUJO
+         REU      : ANA VIRGINIA FERNANDES TEIXEIRA
+         REU      : LEONIDAS RODRIGUES DE OLIVEIRA
+         REU      : NEUSA MARIA BARROS DA COSTA
+         REU      : FRANCISCO ADELANDE PINTO
+         REU      : FRANCISCO FERNANDES SOBRINHO
+         REU      : FRANCISCA GOMES BARBOSA
+         REU      : VALDENIRA MUNIZ SOMBRA
+         REU      : FERNANDO AVELINO DE SOUZA
+         REU      : MARIA DULCINEIDE DANTAS DA ROCHA
+         REU      : MARIA PERPETUA DE FREITAS
+         REU      : LIANA SILVA ROSA
+         REU      : MARIA DE LOURDES VIANA FEITOSA
+         REU      : ANTONIO CARLOS MARQUES
+         REU      : MARIA JOSE CARVALHO SOARES
+         REU      : MARIA LELIA NEGREIROS DIAS
+         REU      : MARIA DAS GRACAS ARAUJO ENEAS
+         REU      : EXPEDITO DE MELO RIBEIRO
+         REU      : GETONIO RODRIGUES BASTOS
+         REU      : GERSON NAZARENO CAVALCANTE
+         REU      : ELIANE HENRIQUES SATTAMINI
+         REU      : MARIA IRACI RODRIGUES
+         REU      : SOLANGE DE MENEZES LESSA
+         REU      : RAIMUNDO GOMES DE LUNA
+         REU      : ELIZABETYH DE OLIVEIRA LUNA
+         REU      : MARIA ODANY MOREIRA
+         REU      : ANTONIO AIRTON DA SILVA
+         REU      : SEVERINO TARCISIO NOBREGA QUEIROGA
+         REU      : FRANCISCO ANTONIO DE CASTRO MENDES
+         REU      : ORISMAR BRAGA BARBOSA
+         REU      : MARIA EDILCE TEIXEIRA MOURAO
+         REU      : MARIA ZENITA TEIXEIRA DE BRITO
+         REU      : FRANCISCO OTON FALCAO JUCA
+         REU      : IVONE CAVALCANTE
+         REU      : LUCIA MARILIA DE MAGALHAES BANHOS
+         REU      : MARIA DE FATIMA ALVES DE OLIVEIRA
+         REU      : FRANCISCO GOMES DA SILVA
+         REU      : MANOEL COSTA LOPES
+         REU      : JOSE ALCIDES CAVALCANTE MATOS
+         REU      : ERONILDE MARTA MATOS
+         REU      : LUCIA MARIA LOPES DE OLIVEIRA CORREIA
+         REU      : EVANDRO DE SOUZA UCHOA
+         REU      : LUCIA DOS MARTINS COELHO MELO
+         ADVOGADO : MARIA DO SOCORRO SIQUEIRA FEITOSA CARVALHO EOUTROS
+         REU      : GILBERTO LEAL DE ARAUJO
+         REU      : MARIANNE SAUDERS GUIMARAES UCHOA
+         REU      : MARIA NILZA CASTELO CIDRAO
+         REU      : JOSE ARTHUR CAMARGO
+         REU      : JOSE BESSA DRUMOND
+         REU      : JOSE TARCISIO PASSOS LIMA
+         REU      : MARIA JOSE LOPES NAMEM
+         ADVOGADO : ILNAH CLAUDIA DE FREITAS
+         REU      : TITO PORFIRIO SAMPAIO
+         ADVOGADO : IDELHER PORFIRO SAMPAIO E OUTRO
+         REU      : CICERO DE ALMEIDA BRAGA
+         REU      : MARIA CARMELIA DO NASCIMENTO BRAGA
+         ADVOGADO : WALMICK BARBOSA BRAGA
+         REU      : FRANCISCO JARISMAR FERREIRA
+         REU      : VANDA RIBEIRO DA COSTA
+         REU      : MIRTIL MEYER FERREIRA
+         REU      : IVO BARCELOS DA SILVA
+         REU      : EULALIA MARIA PINHO DE OLIVEIRA
+         REU      : CLAUDIA BARBOSA MONTENEGRO
+         REU      : MARIA OSIMAR SIQUEIRA DE LUCENA
+         REU      : MARLENE MOREIRA DE ANDRADE
+         REU      : JOSE EVANDRO RIBEIRO MELO
+         REU      : EDSON JOSE PEREIRA AMADOR
+         REU      : JOAO BATISTA DE ARAGAO VIANA
+         REU      : ROMILDO ROCHA PORFIRIO
+         REU      : ADAIRTON FRANCO DE OLIVEIRA
+         REU      : JOAO BATISTA CATUNDA ARAGAO
+         REU      : MARIA AMELIA ROCHA ARAUJO
+         REU      : MARIA AUGUSTA GIFFONI BARROS FILHA
+         REU      : PAULO ROBERTO DE LIMA
+         REU      : FLAVIO BOUCINHA DA FONSECA
+         REU      : FRANCISCO DAS CHAGAS GOMES
+         REU      : EGENILDO ALVES NERES
+         REU      : ANTONIO GONCALVES FILHO
+         REU      : RITA MARIA FERREIRA SILVA
+         REU      : JOSE RONALD MAIA BARRETO
+         REU      : LUIS VASCONCELOS DO NASCIMENTO
+         REU      : MARCOS ANTONIO GADELHA CARVALHO
+         REU      : SERGIO RICARDO SANTOS DAMASCENO
+         REU      : LUCIVALDO MUNIZ FEITOSA
+         REU      : RICARDO SERGIO COSTA LIMA
+         REU      : JOAO QUEVEDO FERREIRA LOPES
+         REU      : JOANILSON NOGUEIRA QUEIROZ DE ALBUQUERQUE
+         REU      : LAZARO DA SILVA COELHO
+         REU      : JOSE MARTINS DEMELO
+         REU      : ORISMAR BRAGA BARBOSA
+         REU      : JOSE LUCIENIO GONZAGA VANDERLEY
+         REU      : ANTERO GUILHERME DODT NETO
+         REU      : POMPEU DE SOUSA BRASIL
+         REU      : CARLOS DAVID SILVEIRA CARVALHO
+         REU      : VIRGILIO NUNES MAIA
+         REU      : HELCI DE CASTRO SALES
+                                  E M E N T A
+ 
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. SERVIDOR PÚBLICOFEDERAL. REAJUSTE SALARIAL.
+URP DE FEVEREIRO DE 1989– 26,05%. INEXISTÊNCIA DE DIREITO ADQUIRIDO. ADIN694-
+1⁄DF. MATÉRIA CONSTITUCIONAL. NÃO INCIDÊNCIA DASÚMULA 343⁄STF.
+1.Pacífica a orientação desta Corte no sentido de que o enunciado daSúmula
+343⁄STF deve ser aplicado somente à interpretaçãocontrovertida de lei federal,
+e não quanto ao conflito de regraconstitucional (direito adquirido), em face da
+respectiva supremaciajurídica.
+2.O Plenário do Supremo Tribunal Federal firmou o entendimento deque os
+servidores públicos federais não têm direito adquirido ao reajustede 26,05%,
+sobre a remuneração de fevereiro de 1989, haja vista arevogação do Decreto-Lei
+nº 2.335⁄87 pela Lei 7.730⁄89, antes deconsumado o período aquisitivo ao
+pretendido reajuste. Precedente:ADIN nº 694-1⁄DF, rel. Min. Marco Aurélio, DJ
+11⁄03⁄94.
+3.Ação Rescisória julgada procedente.
+ 
+                                 A C Ó R D Ã O
+ 
+Vistos, relatados e discutidos estes autos, acordam os Ministros daTerceira
+Seção do Superior Tribunal de Justiça, conformidade dos votos e das
+notastaquigráficas a seguir, por unanimidade, julgar procedente a Ação
+Rescisória, nostermos do voto do Sr. Min. Relator. Votaram com o Relator, os
+Srs. Ministros Fontesde Alencar, Fernando Gonçalves, Felix Fischer, Gilson
+Dipp, Hamilton Carvalhido,Jorge Scartezzini e Paulo Gallotti. Impedido o Sr.
+Ministro Vicente Leal.
+Brasília (DF), 11 de junho de 2001(Data do Julgamento).
+ 
+                       MINISTRO JOSÉ ARNALDO DA FONSECA
+                                  Presidente
+ 
+                            MINISTRO EDSON VIDIGAL 
+                                    Relator
+
+Documento: 84525 EMENTA / ACORDÃ- DJ: 20/08/2001

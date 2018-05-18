@@ -1,0 +1,107 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRAVO DEINSTRUMENTO Nº 384.247 - RJ (2001⁄0052836-8)
+                   RELATOR    : MINISTRO FRANCISCO FALCÃO
+                   AGRAVANTE  : BANCO CENTRAL DO BRASIL
+                   PROCURADOR : FRANCISCO SIQUEIRA E OUTROS
+                   AGRAVADO   : LEILA REIS
+                   ADVOGADO   : HELIO ROCHA E OUTRO
+                                    DECISÃO
+Vistos, etc.
+Trata-se de agravo de instrumento visando ao processamento derecurso especial
+interposto, com fulcro no art. 105, alíneas "a" e "c", da CartaMagna, contra
+acórdão do Tribunal Regional Federal da 2ª Região que entendeu sero agravante
+parte legítima passiva para responder pela correção monetária dossaldos das
+cadernetas de poupança dos recorridos no mês de março de 1990,observando-se o
+IPC, como indexador.
+Sustenta o agravante, em síntese, ter o acórdão acoimado negadovigência aos
+arts. 267, inciso VI, do Código de Processo Civil; 6º, §§ 1º e 2º, e 9º, daLei
+nº 8.024⁄90; 1º do Decreto nº 20.910⁄32; e 2º do Decreto-lei nº 4.597⁄42,
+bemcomo divergido da jurisprudência desta Colenda Corte, ao reconhecê-lo como
+partelegítima para responder pela correção monetária pertinente ao mês de março
+de1990, por ter determinado que a referida correção seguisse o percentual
+relativo aoIPC, e por não ter reconhecido a prescrição qüinqüenal.
+Relatados, decido.
+Primeiramente, no que tange à sua legitimidade, em sessão realizadano dia 30 de
+junho de 2000, a Corte Especial decidiu, no EREsp nº 167.544⁄PE(Rel. Min.
+Eduardo Ribeiro), que o BACEN é o único legitimado a figurar no pólopassivo das
+demandas referentes à correção monetária de ativos financeirosbloqueados, no
+mês de março⁄90, pacificando, pois, a questão controvertida.
+Se não, vejamos:
+ 
+"CADERNETA DE POUPANÇA. CORREÇÃOMONETÁRIA. MARÇO DE 1990. PLANO COLLOR.
+Transferidos os recursos para o Banco Central, será ele oresponsável pelo
+pagamento da correção monetária e não o bancodepositário que perdeu a
+disponibilidade dos depósitos.
+Essa responsabilidade terá em conta o momento em queexigível o pagamento, não
+importando que o critério para o respectivocálculo considere período em que as
+importâncias se achavam sob aguarda da instituição financeira com quem
+contratara o poupador.
+(omissis)"
+ 
+No que concerne à matéria relativa ao índice aplicável à correçãomonetária dos
+chamados ativos retidos, esta requer a análise do regramento legaltido como
+violado, ou seja, o art. 6º, e parágrafos 1º e 2º, da Lei 8.024⁄90, queassim
+dispõem,verbis:
+ 
+"Art. 6º. Os saldos das cadernetas de poupança serãoconvertidos em cruzeiros na
+data do próximo crédito de rendimento,segundo a paridade estabelecida no § 2º
+do art. 1º, observado o limitede NCz$ 50.000,00 (cinqüenta mil cruzados novos).
+§ 1º. As quantias que excederem o limite fixado no caputdeste artigo serão
+convertidas, a partir de 16 de setembro de 1991, emdoze (12) parcelas mensais
+iguais e sucessivas.
+§ 2º. As quantias mencionadas no parágrafo anteriorserão atualizadas
+monetariamente pela variação do BTN Fiscal,verificada entre a data do próximo
+crédito de recebimentos e a data daconversão, acrescidas de juros equivalentes
+a seis por cento (6%) aoano ou fração "pro rata"."
+ 
+Da simples leitura do dispositivo acima transcrito, verifica-se que ossaldos da
+caderneta de poupança devem ser corrigidos pelo BTNF. Entretanto,acendradas
+discussões buscaram entendimento diverso do plasmado no §2º do art.6º da Lei
+8.024⁄90, consubstanciadas no fato de que a lei não poderia impedir
+aatualização dos ditos saldos pelo IPC,haja vista a correção por meio
+desteindexador ser a que melhor representa a inflação consignada no período, ou
+na tesedo direito adquirido, sempre objetivando manter a correção através do
+IPC.
+Inobstante as proposições apresentadas, verifica-se que a legislaçãode regência
+não sofreu qualquer abalo de constitucionalidade, permanecendo emvigor durante
+o período em que esteve cumprindo o comando normativo. Destarte, oíndice a ser
+observado na correção monetária dos saldos da poupança, durante oseu período de
+retenção, é o BTNF.
+Este o entendimento da eg. Primeira Seção, pacificado no julgamentodo REsp nº
+124.864-PR (rel. p⁄ acórdão o em. Ministro Demócrito Reinaldo), o qualteve seu
+conteúdo reafirmado em diversas outras decisões, das quais transcrevo
+aseguinte:
+ 
+"PROCESSUAL CIVIL. CRUZADOS BLOQUEADOS.CORREÇÃO MONETÁRIA. IPC. BTNF.
+LEGITIMIDADE DO BANCOCENTRAL. CPC, 267, VI. LEI 8.024⁄90 (ARTS. 6º E 9º).
+DISSÍDIOJURISPRUDENCIAL.
+1. Se bem que a jurisprudência tenha assentado alegitimação passiva do Banco
+Central para figurar nas ações com o fitode ser corrigido o valor depositado
+sob a réstia do contrato de mútuo(Lei 8.024⁄90), no caso concreto, reconhece-se
+a sua ilegitimidadequanto à correção monetária do mês de março⁄90, em cujo
+períodonão detinha o gerenciamento e disponibilidade dos saldos"bloqueados".
+Legitimação quanto aos meses subsequentes até o"desbloqueio" da última parcela.
+2. Constituída a causa jurídica da correção monetária, nocaso, por submissão à
+jurisprudência uniformizadora ditada pelaPrimeira Seção – REsp 124.864-PR,
+ficou adotado o BTNF, em faceda Lei de nº 8.024⁄90.
+3. (omissis)
+4. Precedentes jurisprudenciais.
+5. Recurso parcialmente provido."
+(REsp 175.436-SC, Relator Ministro Milton Luiz Pereira,DJU 23.08.1999)
+ 
+Tais as razões expendidas, com fulcro no art. 544, § 3º, do Código deProcesso
+Civil, conheço do agravo para DAR PARCIAL provimento ao recursoespecial, com
+arrimo no art. 557, §1º-A, do mesmo diploma legal, para determinarque a
+correção monetária devida no mês de março de 1990 seja feita utilizando-se
+oBTNF como indexador.
+Publique-se.
+Brasília (DF), 4 de junho de 2001.
+ 
+ 
+                          MINISTRO FRANCISCO FALCÃO 
+                                    Relator
+
+Documento: 65884 Despacho / DecisÃ£- DJ: 19/06/2001

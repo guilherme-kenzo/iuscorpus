@@ -1,0 +1,109 @@
+[/webstj/imagens/logo_rej.gif] Superior Tribunal de JustiÃ§a
+                               Revista EletrÃ´nica de JurisprudÃªncia
+Imprimir_[/webstj/imagens/imprimir.gif]
+ 
+AGRG NO RECURSO ESPECIAL Nº 315.274 - RS (2001⁄0037597-9)
+             RELATOR    : MINISTRO FRANCISCO FALCÃO
+             AGRAVANTE  : DISTRIBUIDORA DE BEBIDAS KREUZBURG LTDA
+             ADVOGADO   : CRISTIANO WAGNER E OUTROS
+             AGRAVADO   : FAZENDA NACIONAL
+             PROCURADOR : MARCELO COLETTO POHLMANN E OUTROS
+                                    DECISÃO
+Cuida-se de agravo regimental manifestado pela recorrente contradecisão que
+proferi negando seguimento ao recurso especial em epígrafe, paradeterminar a
+incidência de correção monetária sobre a base de cálculo do PIS, quedeve ser
+estabelecida pelo art. 6º, parágrafo único, da Lei Complementar nº 07⁄70,até a
+edição da Medida Provisória nº 1.212⁄95, quando deve ser apurada pelo
+mêsanterior.
+Sustenta a agravante que o fato gerador ocorre no mês em que sevence o prazo de
+recolhimento, tendo como base de cálculo o faturamento dejaneiro, sem
+incidência de correção monetária, posto que não haveria legislação
+quepermitisse tal correção.
+Relatados, decido.
+Quanto à argumentação da agravante-recorrente de que a contribuiçãodo PIS deve
+ser calculada com base no sexto mês anterior à data de recolhimento,sem
+qualquer correção monetária, vinha entendendo pela viabilidade de
+talatualização.
+Não obstante, depois de melhor refletir sobre a matéria, acompanho
+oentendimento majoritário desta Seção pela impossibilidade de tal incidência.
+Assimo faço em observância ao princípio da legalidade, porquanto não existe
+qualquerprevisão legal para a aplicação de correção monetária na base de
+cálculo do tributo.
+Frise-se, por oportuno, que a hipótese "sub examine" não se ajusta aoteor do
+art. 97, §2º, do CTN, uma vez que a atualização monetária representariaaumento
+da carga tributária, com a alteração da própria base de cálculo dacontribuição,
+o que infringiria os incisos II e IV, do mesmo art. 97, do CódigoTributário
+Nacional.
+Esse entendimento foi proclamado pelo Ministro Milton Luiz Pereira, noREsp
+266.709⁄SC, conforme excerto abaixo transcrito,verbis:
+ 
+"Conquanto boas essas razões, referentemente à correçãomonetária sobre o valor
+da receita bruta, a questão impõe outrosregistros e rumo decisório. Pois o
+faturamento (receita bruta), ensejapertinente indagação: a atualização
+incidente sobre o faturamento dosexto mês anterior configura majoração do
+tributo, afetando a própriabase de cálculo legalmente estabelecida e do objeto
+da obrigaçãotributária?
+Como adiantado, o Senhor Ministro Relator entendeu que não.Em contrário, de
+riste, a articulação recursal encerra que "a base decálculo do tributo decorre
+do fato gerador da obrigação tributária",descabendo cogitar-se daquela antes da
+hipótese de incidência.
+Com efeito, compreendendo-se que a base de cálculo do PIScristaliza-se no
+momento da hipótese de incidência – conteúdoeconômico -, a atualização
+monetária sobre "o valor da receita bruta dosexto mês anterior ao da ocorrência
+do fato gerador", via obliqua,significará aumento da carga tributária. É dizer,
+a atualização não seamolda às disposições do artigo 97, § 2º, CTN.
+Daí reiterar a argumentação recursal que acolhi no julgamento doREsp 24.038-SC,
+a falar:
+ 
+"...nascida a obrigação tributária pela ocorrência do fatogerador, quando
+calcula-se a base de cálculo do tributo, acorreção monetária dessa base de
+cálculo não representaacréscimo (art. 97, §2º, CTN). Mas, a correção de valor
+geradoda relação jurídica obrigacional tributária representa alteraçãoda
+própria base de cálculo. Enfim, constitui a sistemática doPIS, sob o labéu da
+inconstitucionalidade declarada pelaexcelsa Corte (Decretos-leis 2.445 e 2449,
+de 1988).""
+ 
+Essa questão, por diversas vezes, obteve análise da Corte Suprema,conforme se
+observa do excerto a seguir transcrito,verbis:
+ 
+"2. A correção monetária do crédito do ICMS, por não estar prevista
+nalegislação estadual, não pode ser deferida pelo judiciário sob pena
+desubstituir-se o legislador estadual em matéria de sua estritacompetência."(RE
+283.387⁄RS, Relator Ministro Nelson Jobim, D.J.U24.11.2000, Pág. 161)
+ 
+Finalmente, a respeito do assunto, saliento a conclusão do acuradovoto
+proferido pela Ministra Eliana Calmon, quando do julgamento, na PrimeiraSeção,
+em 29⁄05⁄2001, do REsp 258.651⁄SC,verbis:
+ 
+"Como vemos, não há que se confundir fato gerador com base decálculo.
+Sofre a correção o montante apurado em relação ao fato gerador,considerando-se
+como base de cálculo o faturamento mensal dosemestre antecedente, porque assim
+está previsto em lei. A base decálculo, entretanto, não é corrigida
+monetariamente, eis que silencia aLC 07⁄70 e a Lei 7.691⁄88, que previu
+expressamente:
+"Ficará sujeito exclusivamente à correção monetária, naforma do art. 1º, o
+recolhimento que vier a ser efetuado nosseguintes prazos: III – contribuições
+para: b) o PIS – até o dia 10do terceiro mês subseqüente ao da ocorrência do
+fato gerador. "
+(art. 2º)
+Lembre-se aqui, só para argumentar, que a Lei 7.799⁄89disciplinou o imposto de
+renda e estabeleceu, sem rodeios, a correçãoda base de cálculo. E assim o fez
+porque somente a lei podeestabelecer correção monetária sobre a base de
+cálculo, diante daimpossibilidade de ser alterada a mesma por exercício
+deinterpretação.
+Não tenho dúvida que o legislador pretendeu beneficiar ocontribuinte, ao eleger
+como base de cálculo o faturamento de seismeses anteriores ao fato gerador,
+agindo dentro da sua discricionáriacompetência constitucional."
+Desse modo, tendo a empresa-agravante, em seus argumentos,conseguido infirmar o
+referido entendimento, reformo o decidido para afastar aincidência da correção
+monetária sobre a base de cálculo do PIS.
+Tais as razões expendidas, reconsidero a decisão agravada para DARPROVIMENTO ao
+recurso, com arrimo no art. 557, §1º-A, do Código de ProcessoCivil.
+Publique-se.
+Brasília (DF), 13 de agosto de 2001.
+ 
+ 
+                           Ministro Francisco Falcão
+                                    Relator
+
+Documento: 114456 Despacho / DecisÃ£- DJ: 28/08/2001
