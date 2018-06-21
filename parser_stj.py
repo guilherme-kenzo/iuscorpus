@@ -10,56 +10,28 @@ def get_text(file_name):
     bs = BeautifulSoup(t, "html5lib")
     return bs.text
 
-def get_header(datalist):
-    titlere = re.compile('(\d\d)|(\d{4})⁄\d{7,8}-\d')
-    for i, data in enumerate(datalist):
-        match = titlere.search(data)
-        if match:
-            title = match.group()
-            end_title = i
-    actorsre = re.compile('.+:.+')
-    actors = list()
-    for data in datalist[end_title:]:
-        actor = actorsre.search(data)
-        if actor:
-            actors.append(actor.group())
-        else:
-            break
-    return {'title': title,
-            'actors': actors
-            }
+def get_header(text):
+    idre = re.compile('.+(\d\d)|(\d{4})⁄\d{7,8}-\d')
+    headre = re.compile('\n[A-Z]+?\n?:\n?.+?\n')
+    try:
+        title = idre.search(text).group()
+    except AttributeError as e:
+        print(e)
+        title = None
+    try:
+        head = [i.split(':')
+                for i in [j.replace('\n', '')
+                          for j in headre.findall(text)]]
+    except AttributeError as e:
+        print(e)
+        head = None
+    return {
+        'title': title,
+        'head': head
+    }
 
-def get_body(datalist):
-    headtitlere = re.compile('EMENTA|DECISÃO|DESPACHO|ACÓRDÃO')
-    head_titles = list()
-    content_list = list()
-    titlevalue = False
-    contentvalue = False
-    acc_text = ""
-    for i in datalist:
-        line = i.strip()
-        isheadtitle = headtitlere.match(line)
-        if isheadtitle:
-            head_titles.append(isheadtitle.group())
-            if contentvalue:
-                content_list.append(acc_text)
-                contentvalue = False
-            titlevalue = True
-        elif titlevalue:
-            acc_text += line
-            contentvalue = True
-    body = dict(zip(head_titles, content_list))
-    return body
-
-def struct_info(text):
-    textlist = [i for i in text.splitlines() if i]
-    header, pos = get_header(textlist)
-    
-
-if __name__ == '__main__':
-    text = get_text(argv[1]).splitlines()
-    head = get_header(text)
-    body = get_body(text)
-    print(head)
-    print("--------")
-    print(body)
+def get_body(text):
+    ementare = re.compile('(E M E N T A|EMENTA) +\n')
+    afterementare = re.compile('(?<=(E M E N T A|EMENTA)) .+(?=(ACÓRDÃO|A C Ó R D Ã O|DECISÃO|D E C I S Ã O)), flags=re.DOTALL')
+        
+def get_
